@@ -1,0 +1,1859 @@
+{
+  "items": [
+    {
+      "description": "Excerpt from geminiprotocol.net:",
+      "items": [],
+      "title": "What is Gemini"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Clients"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gembro",
+          "description": "(Go) - gemini client using Bubble Tea.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T20:40:50Z",
+            "owner": "charmbracelet",
+            "repo": "bubbletea",
+            "stars": 44345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Amfora",
+          "description": "(Go) - \"fancy\" terminal client. In maintenance mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-03T14:50:21Z",
+            "owner": "makew0rld",
+            "repo": "amfora",
+            "stars": 1349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ncgopher",
+          "description": "(Rust) - gopher and gemini client for the modern internet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-11T04:03:19Z",
+            "owner": "jansc",
+            "repo": "ncgopher",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gmi100",
+          "description": "(C) - CLI Gemini client written in 100 lines of ANSI C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-10-29T08:30:06Z",
+            "owner": "ir33k",
+            "repo": "gmi100",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ereandel",
+          "description": "(Shell) - terminal client using a custom pager written in POSIX shell script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-10T16:47:07Z",
+            "owner": "blmayer",
+            "repo": "ereandel",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gplaces",
+          "description": "(C) - command-driven, terminal based Gemini client in ~1K LOC of C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-18T06:32:55Z",
+            "owner": "dimkr",
+            "repo": "gplaces",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "min",
+          "description": "(Go) - supports advanced features like input and client certificate generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-07-21T18:54:39Z",
+            "owner": "a-h",
+            "repo": "min",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-fetch",
+          "description": "(Node.js) - cURL-like CLI for loading content from Gemini URLs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-06T19:18:36Z",
+            "owner": "RangerMauve",
+            "repo": "gemini-fetch",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gremlin",
+          "description": "(Rust) - TUI for browsing Gemini space",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-12-03T09:32:15Z",
+            "owner": "actuday6418",
+            "repo": "gremlin",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Romulus",
+          "description": "(C#) - interactive TUI client with menus and mouse support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-21T21:15:48Z",
+            "owner": "LukeEmmet",
+            "repo": "Romulus",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemcurses",
+          "description": "(C) - A Gemini client, written in C using ncurses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-02-27T15:17:40Z",
+            "owner": "crusom",
+            "repo": "Gemcurses",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leo",
+          "description": "(Python) - lightweight, prompt-driven Gemini client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-16T20:15:52Z",
+            "owner": "xyzshantaram",
+            "repo": "leo",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omura",
+          "description": "(Node.js, Bun) - Pushing lightweight gemtext-based internet CLI client.",
+          "children": []
+        }
+      ],
+      "title": "Terminal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Graphical"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agregore",
+          "description": "(Electron.js) - peer to peer web browser with support for loading Gemini pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-13T14:45:15Z",
+            "owner": "AgregoreWeb",
+            "repo": "agregore-browser",
+            "stars": 920
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kristall",
+          "description": "(C++) - graphical Gopher and Gemini client using QT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-04-26T09:25:27Z",
+            "owner": "ikskuh",
+            "repo": "kristall",
+            "stars": 793
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geopard",
+          "description": "(Rust) - A colorful, adaptive gemini browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-01T15:57:53Z",
+            "owner": "ranfdev",
+            "repo": "Geopard",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alhena",
+          "description": "(Java) themes, color emojis on Mac, inline images, etc. jlinked exes do not require Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T12:16:49Z",
+            "owner": "mochaman",
+            "repo": "alhena",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Molasses",
+          "description": "(Racket) - full-featured graphical Gopher and Gemini client with tabs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Racket",
+            "last_commit": "2026-07-05T01:57:34Z",
+            "owner": "jjsimpso",
+            "repo": "molasses",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fossil",
+          "description": "(Vala) - GTK3 Gemini browser written in Vala for desktop and mobile.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vala",
+            "last_commit": "2021-11-11T17:32:24Z",
+            "owner": "koyuspace",
+            "repo": "fossil",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yoda",
+          "description": "(Rust) - GTK 4 / Libadwaita client written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-12T07:40:50Z",
+            "owner": "YGGverse",
+            "repo": "Yoda",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eGemi",
+          "description": "(Rust) - Read gemtext and other plaintexts via and . (uses egui)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-17T02:09:40Z",
+            "owner": "NfNitLoop",
+            "repo": "egemi",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spacewar",
+          "description": "(Electron.js) - EXPERIMENTAL and UNSTABLE Gemini browser running on Electron.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-08-24T23:15:37Z",
+            "owner": "ResonAtom",
+            "repo": "spacewar",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Cross-platform"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deedum",
+          "description": "(Dart) - an Android and iOS client made with Flutter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-07-31T19:54:47Z",
+            "owner": "snoe",
+            "repo": "deedum",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buran",
+          "description": "(Kotlin/Java) - Gemini browser for Android, fork of Ariane.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-07-07T03:38:54Z",
+            "owner": "Corewala",
+            "repo": "Buran",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Elaho",
+          "description": "(Swift) - full featured Gemini protocol browser for iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-11-26T10:35:23Z",
+            "owner": "pitr",
+            "repo": "gemini-ios",
+            "stars": 129
+          }
+        }
+      ],
+      "title": "Mobile"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "go-gemini",
+          "description": "(Go) - more recent fork of the library above.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-21T19:53:38Z",
+            "owner": "makew0rld",
+            "repo": "go-gemini",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gig",
+          "description": "(Go) - Gemini framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-07-09T21:15:36Z",
+            "owner": "pitr",
+            "repo": "gig",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "derhuerst/gemini",
+          "description": "(Node.js) - server & client lib.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-03-19T23:20:36Z",
+            "owner": "derhuerst",
+            "repo": "gemini",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "a-h/gemini",
+          "description": "(Go) - Applications and libraries for building applications on Gemini.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-04-21T17:42:16Z",
+            "owner": "a-h",
+            "repo": "gemini",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ignition",
+          "description": "(Python) - Gemini client transport/request library for python3.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-20T17:03:00Z",
+            "owner": "cbrews",
+            "repo": "ignition",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "html2gemini",
+          "description": "(Go) - package library to convert HTML to Gemini (see also html2gmi for command line application)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-07-23T21:49:33Z",
+            "owner": "LukeEmmet",
+            "repo": "html2gemini",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemclient",
+          "description": "(Nim) - rich client library for the Gemini Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2021-10-30T23:20:57Z",
+            "owner": "Koshroy",
+            "repo": "gemclient",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmolNetSharp",
+          "description": "(C#) - cross platform .NET (core/framework) client library for building Gemini and Gopher clients",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-07-23T14:38:24Z",
+            "owner": "LukeEmmet",
+            "repo": "SmolNetSharp",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kaksik",
+          "description": "(Deno/TypeScript) - middleware library for building server applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-19T21:20:39Z",
+            "owner": "sergetymo",
+            "repo": "kaksik",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dremini",
+          "description": "(C++) - Highly concurrent C++ Gemini server and client library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-27T07:53:27Z",
+            "owner": "marty1885",
+            "repo": "dremini",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini",
+          "description": "(Go) - Server side Gemini protocol + Titan protocol implementation that matches standard GO http API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-10-17T01:30:39Z",
+            "owner": "kulak",
+            "repo": "gemini",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "warmuuh/jemini",
+          "description": "(Java) - reactive gemini-client, part of jemini-project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-04-23T10:01:46Z",
+            "owner": "warmuuh",
+            "repo": "jemini",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Opal",
+          "description": "(C#) - Gemini client library targeting .NET Standard 2.0. Built-in support for TOFU and client certificates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-06T21:19:58Z",
+            "owner": "aschuhardt",
+            "repo": "Opal",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gmir",
+          "description": "(Go) - A reader for gmi files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-11-09T19:46:06Z",
+            "owner": "codesoap",
+            "repo": "gmir",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemax",
+          "description": "(Go) - a golang gemini stack, inspired by go STD http library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-09T18:45:16Z",
+            "owner": "ninedraft",
+            "repo": "gemax",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geminic",
+          "description": "(Erlang) - An Erlang library for building Gemini protocol clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2021-07-01T01:27:27Z",
+            "owner": "WarpEngineer",
+            "repo": "geminic",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cuipod",
+          "description": "(C#) - Simple yet flexible framework for Gemini protocol server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-12-15T17:47:34Z",
+            "owner": "aegis-dev",
+            "repo": "cuipod",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phos",
+          "description": "(Common Lisp) - Gemini client library and experimental GUI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2025-10-07T16:27:01Z",
+            "owner": "omar-polo",
+            "repo": "phos",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggemini",
+          "description": "(Rust) - Glib/Gio-oriented client for Gemini protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-12T06:58:47Z",
+            "owner": "YGGverse",
+            "repo": "ggemini",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-php",
+          "description": "(PHP) - Composer library that includes TLS / socket client, Gemtext parser and DokuWiki tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-02T23:17:29Z",
+            "owner": "YGGverse",
+            "repo": "gemini-php",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggemtext",
+          "description": "(Rust) - Glib-oriented Gemtext API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-12T07:39:46Z",
+            "owner": "YGGverse",
+            "repo": "ggemtext",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "titanite",
+          "description": "(Rust) - Client/Server library for Gemini protocol with Titan support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-24T04:16:15Z",
+            "owner": "YGGverse",
+            "repo": "titanite",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemtext-php",
+          "description": "(PHP) - object-oriented library for Gemtext operations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-07-08T02:54:45Z",
+            "owner": "YGGverse",
+            "repo": "gemtext-php",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qgeminiserver",
+          "description": "(Deno/TypeScript) - framework for server applications. A kaksik fork that fixes bugs and keeps away bit-rot.",
+          "children": []
+        }
+      ],
+      "title": "Programming"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agate",
+          "description": "(Rust) - simple Gemini server for static files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T15:37:25Z",
+            "owner": "mbrubeck",
+            "repo": "agate",
+            "stars": 744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jetforce",
+          "description": "(Python) - built-in static file server with support for gemini directories and CGI scripts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-09T15:11:39Z",
+            "owner": "michael-lazar",
+            "repo": "jetforce",
+            "stars": 217
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gmid",
+          "description": "(C) - simple and secure Gemini server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T14:44:06Z",
+            "owner": "omar-polo",
+            "repo": "gmid",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "a-h/gemini",
+          "description": "(Go) - Server for Linux, Mac, Raspberry Pi. Supports SNI for multiple domains on the same server, has Docker image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-04-21T17:42:16Z",
+            "owner": "a-h",
+            "repo": "gemini",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GLV-1.12556",
+          "description": "(Lua) - the first Gemini protocol server with a lot of features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-01-04T00:05:36Z",
+            "owner": "spc476",
+            "repo": "GLV-1.12556",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Germinal",
+          "description": "(Common Lisp) - serves any type of document with an appropriate mime type.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2021-05-11T12:05:23Z",
+            "owner": "jfmcbrayer",
+            "repo": "germinal",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geminid",
+          "description": "(C) - Gemini Server in C.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-06-05T18:09:32Z",
+            "owner": "jovoro",
+            "repo": "geminid",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "geminim",
+          "description": "(Nim) - an async lightweight Gemini server made in Nim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2022-07-09T09:15:41Z",
+            "owner": "ardek66",
+            "repo": "geminim",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mehari",
+          "description": "Featureful server in OCaml",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2026-08-04T23:02:34Z",
+            "owner": "Psi-Prod",
+            "repo": "Mehari",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "blizanci",
+          "description": "(Erlang) - server designed primarily for robustness and security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Erlang",
+            "last_commit": "2026-05-01T10:53:00Z",
+            "owner": "mk270",
+            "repo": "blizanci",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "net-gemini",
+          "description": "(Go) - gemini server inspired by Molly Brown.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-08-25T21:13:53Z",
+            "owner": "jackdoe",
+            "repo": "net-gemini",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemeaux",
+          "description": "(Python) - server using only the Python standard library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-06T19:50:17Z",
+            "owner": "brunobord",
+            "repo": "gemeaux",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twinstar",
+          "description": "(Rust) - gemini server implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-09T21:43:49Z",
+            "owner": "panicbit",
+            "repo": "twinstar",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gmifs",
+          "description": "(Go) - Gemini file server with auto indexing support, caching and auto TLS key pair creation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-07-29T12:12:39Z",
+            "owner": "n0x1m",
+            "repo": "gmifs",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bunkum",
+          "description": "(C#) - Open source .NET Gemini/Titan/Gopher/HTTP(S) request server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-25T01:40:17Z",
+            "owner": "PlanetBunkum",
+            "repo": "Bunkum",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windmark",
+          "description": "(Rust) - An elegant and highly performant async Gemini server framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-13T14:10:29Z",
+            "owner": "gemrest",
+            "repo": "windmark",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atlas",
+          "description": "(C#) - .NET7 Gemini/Titan/Spartan server w/ vhost and cgi support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-24T19:28:24Z",
+            "owner": "Alumniminium",
+            "repo": "atlas",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hydepark",
+          "description": "(Rust) - discussion forum application for Gemini.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-03-13T09:42:54Z",
+            "owner": "mispecto",
+            "repo": "hydepark",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Denoscuri",
+          "description": "(Typescript) - simple Gemini server written using Deno and Typescript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-07-18T06:50:30Z",
+            "owner": "caranatar",
+            "repo": "denoscuri",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marami",
+          "description": "(Prolog) - server written in Prolog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Prolog",
+            "last_commit": "2020-09-07T12:06:29Z",
+            "owner": "MagnificentPako",
+            "repo": "Marami",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gneto",
+          "description": "(Go) - Gemini over HTTP proxy, with support for client certificates and CSS customization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-07-05T21:00:51Z",
+            "owner": "pgorman",
+            "repo": "gneto",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jemini",
+          "description": "(Java) - dual gemini/http server on top of jetty with spring-boot integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-04-23T10:01:46Z",
+            "owner": "warmuuh",
+            "repo": "jemini",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemini Dock",
+          "description": "(TypeScript) - an extensible Gemini server with a built-in database and easy dynamic site creation focused on DX",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-06T21:15:19Z",
+            "owner": "mathiscode",
+            "repo": "gemini-dock",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JAGS-php",
+          "description": "(PHP) - fork of gemini-php with support of dynamic pages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-02-04T17:04:53Z",
+            "owner": "codeandcreate",
+            "repo": "JAGS-PHP",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Titan",
+          "description": "(Rust) - simple TOML-configured Gemini server and an Express-like Gemini server framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-10-10T14:56:16Z",
+            "owner": "jahzielv",
+            "repo": "titan",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aiogemini",
+          "description": "(Python) - minimalist Python 3 server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-04T15:41:49Z",
+            "owner": "rcarmo",
+            "repo": "aiogemini",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apogee",
+          "description": "(Kotlin) - Gemini server written in Kotlin for the JVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2023-12-26T04:23:38Z",
+            "owner": "bunburya",
+            "repo": "apogee",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Loxy",
+          "description": "(C#) - Gemini to HTTP proxy, exposes any capsule to the web as stylable HTML (based on the Opal library).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-10-10T16:43:16Z",
+            "owner": "aschuhardt",
+            "repo": "Loxy",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doppio",
+          "description": "(Java) - single-JAR Gemini server with CGI, authentication, and Atom feed support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2025-05-25T01:51:49Z",
+            "owner": "bhavanki",
+            "repo": "doppio",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jsonresume-gemini",
+          "description": "(PHP) - single purpose server implementation of the Gemini protocol to serve up your JSON Resume.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-03-27T14:57:08Z",
+            "owner": "michaelcaplan",
+            "repo": "jsonresume-gemini",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tripod",
+          "description": "(Common Lisp) - Polyglot blog engine serving Gemtext, Gopher, HTML, and plaintext",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Common Lisp",
+            "last_commit": "2022-09-21T07:18:26Z",
+            "owner": "aartaka",
+            "repo": "tripod",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gem",
+          "description": "(C) - static file server with many features",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-05-17T18:03:22Z",
+            "owner": "wrclark",
+            "repo": "gem",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kepler",
+          "description": "simple gemini server in rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-08-07T20:22:31Z",
+            "owner": "ambyshframber",
+            "repo": "kepler",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yo!",
+          "description": "(PHP) - Search server and crawler with history snap support, based on Manticore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-18T07:25:35Z",
+            "owner": "YGGverse",
+            "repo": "Yo",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Earl Server",
+          "description": "(Kotlin) - Gemini fileserver for the JVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2020-12-03T20:02:00Z",
+            "owner": "mrletourneau",
+            "repo": "EarlServer",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Maple",
+          "description": "(C++) - A very simple static Gemini server, now with Titan support!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-03-04T04:15:37Z",
+            "owner": "gemrest",
+            "repo": "maple",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mollyb",
+          "description": "(Java) - A basic Gemini server in Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-18T14:42:46Z",
+            "owner": "augmentedlogic",
+            "repo": "mollyb",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KevaChat",
+          "description": "(PHP) - client/server Chat in Blockchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-07T11:30:38Z",
+            "owner": "kevachat",
+            "repo": "geminiapp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pulsar",
+          "description": "(PHP) - RSS aggregation server for Gemini Protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-07T05:50:02Z",
+            "owner": "YGGverse",
+            "repo": "Pulsar",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "β-Doku",
+          "description": "(PHP) - DokuWiki Satellite for Gemini Protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-07T11:20:52Z",
+            "owner": "YGGverse",
+            "repo": "bdoku",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "titanit",
+          "description": "(Rust) - File share server for Titan protocol with Gemini frontend",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-24T04:19:34Z",
+            "owner": "YGGverse",
+            "repo": "titanit",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StaticGeminiServer",
+          "description": "(Codeberg) (Ruby) - a simple more or less stable gemini server for static files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-08-31T18:05:56Z",
+            "owner": "marek22k",
+            "repo": "StaticGeminiServer",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-server-clj",
+          "description": "(Clojure) - simple gemini server for serving static files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2024-02-12T13:27:15Z",
+            "owner": "aburd",
+            "repo": "gemini-server-clj",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "βtracker",
+          "description": "(Rust) - BitTorrent catalog for the Gemini protocol",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2026-06-02T20:23:55Z",
+            "owner": "YGGverse",
+            "repo": "btracker-gemini",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enceladus",
+          "description": "(F#) - A simple Gemini protocol server implementation in .NET Core and F#.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "geminispace-jsdoc-server",
+          "description": "A Gemini server for serving JSDoc documentation on the Deno runtime.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Lupa Pona",
+          "description": "(Perl) - simple single directory Gemini server.",
+          "children": []
+        }
+      ],
+      "title": "Servers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gemini://tlgs.one - (http version",
+          "description": ") Another public search provider for Gemini(repo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-27T13:05:06Z",
+            "owner": "marty1885",
+            "repo": "tlgs",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini://kevachat.duckdns.org - KevaChat clearnet node for Gemini (repo",
+          "description": ").",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-07T11:30:38Z",
+            "owner": "kevachat",
+            "repo": "geminiapp",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini://betahowto.duckdns.org - Yggdrasil DokuWiki Satellite (repo",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-07T11:20:52Z",
+            "owner": "YGGverse",
+            "repo": "bdoku",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini://kvazar.duckdns.org - Observe Kevacoin Universe (repo",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-03-07T11:29:24Z",
+            "owner": "kvazar-network",
+            "repo": "geminiapp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini://flounder.online (https version",
+          "description": ") - host small Gemini web pages over https and Gemini (repo).",
+          "children": []
+        }
+      ],
+      "title": "Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gemget",
+          "description": "(Go) - Command line downloader for the Gemini protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-28T15:52:47Z",
+            "owner": "makew0rld",
+            "repo": "gemget",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gloggery",
+          "description": "(Go) - basic static site generator for blogs in Gemini.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-21T18:06:44Z",
+            "owner": "kconner",
+            "repo": "gloggery",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo-2-Gopher-and-Gemini",
+          "description": "(Python) - A Hugo theme to convert a Hugo site to Gemini or Gopher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T02:20:06Z",
+            "owner": "mkamarin",
+            "repo": "Hugo-2-Gopher-and-Gemini",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemini Diagnostics",
+          "description": "A torture test for gemini servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-22T19:34:18Z",
+            "owner": "michael-lazar",
+            "repo": "gemini-diagnostics",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "astroget",
+          "description": "(C) - Command line tool to download and upload files from Gemini, Gopher, Scorpion, and Spartan servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-06-24T05:41:25Z",
+            "owner": "zzo38",
+            "repo": "scorpion",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gempost",
+          "description": "(Rust) - Simple static site generator for Gemini blogs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-04T21:05:15Z",
+            "owner": "justlark",
+            "repo": "gempost",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemmit",
+          "description": "(Go) - social news aggregation and web content rating website for the gemini protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-04-20T22:42:28Z",
+            "owner": "t-900-a",
+            "repo": "gemmit",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gopher-and-Gemini-Walker",
+          "description": "(Python) - Terminal client (without network connectivity) to navigate a folder structure containing a Gemini capsule or Gopher hole.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-29T04:27:44Z",
+            "owner": "mkamarin",
+            "repo": "Gopher-and-Gemini-Walker",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pulsar",
+          "description": "(PHP) - RSS Aggregator for Gemini Protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-05-07T05:50:02Z",
+            "owner": "YGGverse",
+            "repo": "Pulsar",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pulsarss",
+          "description": "(Rust) - Crawl & Convert RSS feeds into static Gemtext",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-03T06:09:20Z",
+            "owner": "YGGverse",
+            "repo": "pulsarss",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-dl",
+          "description": "(PHP) - CLI batch downloader for Gemini protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-11-11T19:13:16Z",
+            "owner": "YGGverse",
+            "repo": "gemini-dl",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "md2gemini",
+          "description": "(Python) - converter from Markdown to the Gemini text format.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-08-06T19:25:15Z",
+            "owner": "makew0rld",
+            "repo": "md2gemini",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dioscuri",
+          "description": "(JS) - A Gemtext parser with interfaces to transform to and from mdast (markdown ast) and to compile to HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-09T18:44:26Z",
+            "owner": "wooorm",
+            "repo": "dioscuri",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "html2gmi",
+          "description": "(Go) - command line utility to convert HTML to gemtext",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-04-16T17:12:04Z",
+            "owner": "LukeEmmet",
+            "repo": "html2gmi",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hugo-2-Gopher-and-Gemini",
+          "description": "(Python) - A Hugo theme to convert a Hugo site to Gemini or Gopher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T02:20:06Z",
+            "owner": "mkamarin",
+            "repo": "Hugo-2-Gopher-and-Gemini",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-to-html",
+          "description": "(Node.js) - JavaScript library for parsing Gemini pages, and for rendering them to HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-13T18:32:46Z",
+            "owner": "RangerMauve",
+            "repo": "gemini-to-html",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gmi2html",
+          "description": "(Zig) - tiny gemtext to HTML converter with a focus on performance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2023-09-16T17:28:31Z",
+            "owner": "shtanton",
+            "repo": "gmi2html",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-pandoc-lua-filter",
+          "description": "(Lua) - lua filter for pandoc to output Gemini text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2020-07-26T18:31:31Z",
+            "owner": "kr1sp1n",
+            "repo": "gemini-pandoc-lua-filter",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Html2GeminiPy",
+          "description": "(Python) - Converts Html sites to Gemini sites using markdownify and md2gemini.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-20T19:11:59Z",
+            "owner": "Aarontheissueguy",
+            "repo": "Html2GeminiPy",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemtext2md",
+          "description": "(Rust) - tool for converting Gemtext to Markdown",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-10-24T16:40:45Z",
+            "owner": "mk270",
+            "repo": "gemtext2md",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemtext2latex",
+          "description": "(Python) - tool for converting Gemtext to reasonable LaTeX and thence PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-18T11:06:14Z",
+            "owner": "mk270",
+            "repo": "gemtext2latex",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-php",
+          "description": "(PHP) - Composer library for Gemini - includes DokuWiki converter, file-system operations and other API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-08-02T23:17:29Z",
+            "owner": "YGGverse",
+            "repo": "gemini-php",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ggemtext",
+          "description": "(Rust) - Glib-oriented Gemtext API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-12T07:39:46Z",
+            "owner": "YGGverse",
+            "repo": "ggemtext",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Gemtext converters"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "gemini.yml",
+          "description": "text/gemini syntax highlighting for micro.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:28:46Z",
+            "owner": "micro-editor",
+            "repo": "micro",
+            "stars": 29328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "language_gmi",
+          "description": "gemtext syntax highlighting for lite-xl",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-05-06T15:01:09Z",
+            "owner": "lite-xl",
+            "repo": "lite-xl-plugins",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini.kak",
+          "description": "text/gemini syntax highlighting for kakoune.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2021-08-06T07:21:26Z",
+            "owner": "kakoune-editor",
+            "repo": "kakoune-extra-filetypes",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini.sublime-syntax",
+          "description": "text/gemini syntax highlighting for bat (and maybe Sublime Text).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-06T07:04:27Z",
+            "owner": "adiabatic",
+            "repo": "gemini.sublime-syntax",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini.nanorc",
+          "description": "text/gemini syntax highlighting for nano.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-05-08T17:15:37Z",
+            "owner": "yzzyx-network",
+            "repo": "nanorc",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-intellij-plugin",
+          "description": "text/gemini syntax highlighting for IntelliJ IDEs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-12-06T02:15:51Z",
+            "owner": "michael-lazar",
+            "repo": "gemini-intellij-plugin",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gemini-zed",
+          "description": "text/gemini syntax highlighting for Zed text editor",
+          "children": []
+        }
+      ],
+      "title": "Syntax Highlighting"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T15:00:46.605Z",
+    "original_repository": "kr1sp1n/awesome-gemini",
+    "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
+    "enhanced_repository": "enhansome/enhansome-gemini",
+    "enhanced_repository_description": null,
+    "title": "Awesome Gemini with stars"
+  }
+}
