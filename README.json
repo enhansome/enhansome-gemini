@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T20:40:50Z",
             "owner": "charmbracelet",
             "repo": "bubbletea",
-            "stars": 44358
+            "stars": 44376
           }
         },
         {
@@ -436,20 +436,6 @@
         },
         {
           "node_type": "item",
-          "title": "ignition",
-          "description": "(Python) - Gemini client transport/request library for python3.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-04-20T17:03:00Z",
-            "owner": "cbrews",
-            "repo": "ignition",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
           "title": "html2gemini",
           "description": "(Go) - package library to convert HTML to Gemini (see also html2gmi for command line application)",
           "children": [],
@@ -702,6 +688,12 @@
         },
         {
           "node_type": "item",
+          "title": "ignition",
+          "description": "(Python) - Gemini client transport/request library for python3.",
+          "children": []
+        },
+        {
+          "node_type": "item",
           "title": "qgeminiserver",
           "description": "(Deno/TypeScript) - framework for server applications. A kaksik fork that fixes bugs and keeps away bit-rot.",
           "children": []
@@ -832,7 +824,7 @@
           "repo_info": {
             "archived": false,
             "language": "OCaml",
-            "last_commit": "2026-08-04T23:02:34Z",
+            "last_commit": "2026-08-14T23:00:09Z",
             "owner": "Psi-Prod",
             "repo": "Mehari",
             "stars": 40
@@ -1762,10 +1754,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T00:28:58Z",
+            "last_commit": "2026-08-15T00:17:03Z",
             "owner": "micro-editor",
             "repo": "micro",
-            "stars": 29337
+            "stars": 29341
           }
         },
         {
@@ -1849,7 +1841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:54:47.508Z",
+    "last_updated": "2026-08-15T14:26:04.021Z",
     "original_repository": "kr1sp1n/awesome-gemini",
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
     "enhanced_repository": "enhansome/enhansome-gemini",
