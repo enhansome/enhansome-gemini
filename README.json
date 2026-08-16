@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T20:40:50Z",
             "owner": "charmbracelet",
             "repo": "bubbletea",
-            "stars": 44376
+            "stars": 44386
           }
         },
         {
@@ -712,7 +712,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T10:12:34Z",
+            "last_commit": "2026-08-15T23:43:07Z",
             "owner": "mbrubeck",
             "repo": "agate",
             "stars": 745
@@ -1754,10 +1754,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T00:17:03Z",
+            "last_commit": "2026-08-16T00:18:00Z",
             "owner": "micro-editor",
             "repo": "micro",
-            "stars": 29341
+            "stars": 29348
           }
         },
         {
@@ -1841,7 +1841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:26:04.021Z",
+    "last_updated": "2026-08-16T14:26:03.396Z",
     "original_repository": "kr1sp1n/awesome-gemini",
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
     "enhanced_repository": "enhansome/enhansome-gemini",
