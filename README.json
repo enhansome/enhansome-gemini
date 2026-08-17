@@ -24,7 +24,7 @@
             "last_commit": "2026-08-12T20:40:50Z",
             "owner": "charmbracelet",
             "repo": "bubbletea",
-            "stars": 44386
+            "stars": 44408
           }
         },
         {
@@ -209,7 +209,7 @@
             "last_commit": "2026-07-13T14:45:15Z",
             "owner": "AgregoreWeb",
             "repo": "agregore-browser",
-            "stars": 920
+            "stars": 921
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-04-26T09:25:27Z",
             "owner": "ikskuh",
             "repo": "kristall",
-            "stars": 793
+            "stars": 794
           }
         },
         {
@@ -712,7 +712,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T23:43:07Z",
+            "last_commit": "2026-08-17T10:14:00Z",
             "owner": "mbrubeck",
             "repo": "agate",
             "stars": 745
@@ -1140,6 +1140,20 @@
         },
         {
           "node_type": "item",
+          "title": "Yo!",
+          "description": "(PHP) - Search server and crawler with history snap support, based on Manticore",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2024-04-18T07:25:35Z",
+            "owner": "YGGverse",
+            "repo": "Yo",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
           "title": "gem",
           "description": "(C) - static file server with many features",
           "children": [],
@@ -1163,20 +1177,6 @@
             "last_commit": "2022-08-07T20:22:31Z",
             "owner": "ambyshframber",
             "repo": "kepler",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yo!",
-          "description": "(PHP) - Search server and crawler with history snap support, based on Manticore",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-04-18T07:25:35Z",
-            "owner": "YGGverse",
-            "repo": "Yo",
             "stars": 3
           }
         },
@@ -1754,10 +1754,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T00:18:00Z",
+            "last_commit": "2026-08-17T00:17:18Z",
             "owner": "micro-editor",
             "repo": "micro",
-            "stars": 29348
+            "stars": 29359
           }
         },
         {
@@ -1771,7 +1771,7 @@
             "last_commit": "2026-05-06T15:01:09Z",
             "owner": "lite-xl",
             "repo": "lite-xl-plugins",
-            "stars": 512
+            "stars": 513
           }
         },
         {
@@ -1841,7 +1841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T14:26:03.396Z",
+    "last_updated": "2026-08-17T14:31:14.825Z",
     "original_repository": "kr1sp1n/awesome-gemini",
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
     "enhanced_repository": "enhansome/enhansome-gemini",
