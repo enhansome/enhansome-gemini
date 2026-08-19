@@ -1,382 +1,401 @@
 {
   "items": [
     {
-      "description": "Excerpt from geminiprotocol.net:",
-      "items": [],
-      "title": "What is Gemini"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gembro",
+              "description": "(Go) - gemini client using Bubble Tea.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233130089,
+                "language": "Go",
+                "last_commit": "2026-08-19T11:56:34Z",
+                "owner": "charmbracelet",
+                "repo": "bubbletea",
+                "stars": 44451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amfora",
+              "description": "(Go) - \"fancy\" terminal client. In maintenance mode.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273337347,
+                "language": "Go",
+                "last_commit": "2026-07-03T14:50:21Z",
+                "owner": "makew0rld",
+                "repo": "amfora",
+                "stars": 1351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ncgopher",
+              "description": "(Rust) - gopher and gemini client for the modern internet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 242084111,
+                "language": "Rust",
+                "last_commit": "2026-06-11T04:03:19Z",
+                "owner": "jansc",
+                "repo": "ncgopher",
+                "stars": 222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gmi100",
+              "description": "(C) - CLI Gemini client written in 100 lines of ANSI C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 665048203,
+                "language": "C",
+                "last_commit": "2024-10-29T08:30:06Z",
+                "owner": "ir33k",
+                "repo": "gmi100",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ereandel",
+              "description": "(Shell) - terminal client using a custom pager written in POSIX shell script.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 383017482,
+                "language": "Shell",
+                "last_commit": "2026-03-10T16:47:07Z",
+                "owner": "blmayer",
+                "repo": "ereandel",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gplaces",
+              "description": "(C) - command-driven, terminal based Gemini client in ~1K LOC of C.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 479405442,
+                "language": "C",
+                "last_commit": "2026-06-18T06:32:55Z",
+                "owner": "dimkr",
+                "repo": "gplaces",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "min",
+              "description": "(Go) - supports advanced features like input and client certificate generation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294961585,
+                "language": "Go",
+                "last_commit": "2021-07-21T18:54:39Z",
+                "owner": "a-h",
+                "repo": "min",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gemini-fetch",
+              "description": "(Node.js) - cURL-like CLI for loading content from Gemini URLs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288294301,
+                "language": "JavaScript",
+                "last_commit": "2025-05-06T19:18:36Z",
+                "owner": "RangerMauve",
+                "repo": "gemini-fetch",
+                "stars": 25
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gremlin",
+              "description": "(Rust) - TUI for browsing Gemini space",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337166298,
+                "language": "Rust",
+                "last_commit": "2021-12-03T09:32:15Z",
+                "owner": "actuday6418",
+                "repo": "gremlin",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Romulus",
+              "description": "(C#) - interactive TUI client with menus and mouse support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 368990198,
+                "language": "C#",
+                "last_commit": "2022-07-21T21:15:48Z",
+                "owner": "LukeEmmet",
+                "repo": "Romulus",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gemcurses",
+              "description": "(C) - A Gemini client, written in C using ncurses.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 478661542,
+                "language": "C",
+                "last_commit": "2024-02-27T15:17:40Z",
+                "owner": "crusom",
+                "repo": "Gemcurses",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "leo",
+              "description": "(Python) - lightweight, prompt-driven Gemini client.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312188722,
+                "language": "Python",
+                "last_commit": "2023-12-16T20:15:52Z",
+                "owner": "xyzshantaram",
+                "repo": "leo",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Terminal"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Agregore",
+                  "description": "(Electron.js) - peer to peer web browser with support for loading Gemini pages.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 271903277,
+                    "language": "JavaScript",
+                    "last_commit": "2026-07-13T14:45:15Z",
+                    "owner": "AgregoreWeb",
+                    "repo": "agregore-browser",
+                    "stars": 922
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kristall",
+                  "description": "(C++) - graphical Gopher and Gemini client using QT.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 268132275,
+                    "language": "C++",
+                    "last_commit": "2026-04-26T09:25:27Z",
+                    "owner": "ikskuh",
+                    "repo": "kristall",
+                    "stars": 794
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Geopard",
+                  "description": "(Rust) - A colorful, adaptive gemini browser.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 295362309,
+                    "language": "Rust",
+                    "last_commit": "2025-09-01T15:57:53Z",
+                    "owner": "ranfdev",
+                    "repo": "Geopard",
+                    "stars": 206
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Alhena",
+                  "description": "(Java) themes, color emojis on Mac, inline images, etc. jlinked exes do not require Java.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 929210843,
+                    "language": "Java",
+                    "last_commit": "2026-08-10T12:16:49Z",
+                    "owner": "mochaman",
+                    "repo": "alhena",
+                    "stars": 59
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Molasses",
+                  "description": "(Racket) - full-featured graphical Gopher and Gemini client with tabs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 338909662,
+                    "language": "Racket",
+                    "last_commit": "2026-07-05T01:57:34Z",
+                    "owner": "jjsimpso",
+                    "repo": "molasses",
+                    "stars": 36
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Fossil",
+                  "description": "(Vala) - GTK3 Gemini browser written in Vala for desktop and mobile.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 350741965,
+                    "language": "Vala",
+                    "last_commit": "2021-11-11T17:32:24Z",
+                    "owner": "koyuspace",
+                    "repo": "fossil",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Yoda",
+                  "description": "(Rust) - GTK 4 / Libadwaita client written in Rust.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 784071632,
+                    "language": "Rust",
+                    "last_commit": "2026-05-12T07:40:50Z",
+                    "owner": "YGGverse",
+                    "repo": "Yoda",
+                    "stars": 23
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "eGemi",
+                  "description": "(Rust) - Read gemtext and other plaintexts via and . (uses egui)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1025973831,
+                    "language": "Rust",
+                    "last_commit": "2025-08-17T02:09:40Z",
+                    "owner": "NfNitLoop",
+                    "repo": "egemi",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "spacewar",
+                  "description": "(Electron.js) - EXPERIMENTAL and UNSTABLE Gemini browser running on Electron.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 288073226,
+                    "language": "JavaScript",
+                    "last_commit": "2020-08-24T23:15:37Z",
+                    "owner": "ResonAtom",
+                    "repo": "spacewar",
+                    "stars": 3
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Cross-platform"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Deedum",
+                  "description": "(Dart) - an Android and iOS client made with Flutter.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 271298628,
+                    "language": "Dart",
+                    "last_commit": "2025-07-31T19:54:47Z",
+                    "owner": "snoe",
+                    "repo": "deedum",
+                    "stars": 142
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Buran",
+                  "description": "(Kotlin/Java) - Gemini browser for Android, fork of Ariane.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 433079198,
+                    "language": "Kotlin",
+                    "last_commit": "2023-07-07T03:38:54Z",
+                    "owner": "Corewala",
+                    "repo": "Buran",
+                    "stars": 134
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Elaho",
+                  "description": "(Swift) - full featured Gemini protocol browser for iOS.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 266392637,
+                    "language": "Swift",
+                    "last_commit": "2023-11-26T10:35:23Z",
+                    "owner": "pitr",
+                    "repo": "gemini-ios",
+                    "stars": 129
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Mobile"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graphical"
+        }
+      ],
       "title": "Clients"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gembro",
-          "description": "(Go) - gemini client using Bubble Tea.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T07:32:36Z",
-            "owner": "charmbracelet",
-            "repo": "bubbletea",
-            "stars": 44431
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Amfora",
-          "description": "(Go) - \"fancy\" terminal client. In maintenance mode.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-03T14:50:21Z",
-            "owner": "makew0rld",
-            "repo": "amfora",
-            "stars": 1349
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ncgopher",
-          "description": "(Rust) - gopher and gemini client for the modern internet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-11T04:03:19Z",
-            "owner": "jansc",
-            "repo": "ncgopher",
-            "stars": 222
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gmi100",
-          "description": "(C) - CLI Gemini client written in 100 lines of ANSI C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-10-29T08:30:06Z",
-            "owner": "ir33k",
-            "repo": "gmi100",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ereandel",
-          "description": "(Shell) - terminal client using a custom pager written in POSIX shell script.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-03-10T16:47:07Z",
-            "owner": "blmayer",
-            "repo": "ereandel",
-            "stars": 68
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gplaces",
-          "description": "(C) - command-driven, terminal based Gemini client in ~1K LOC of C.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-06-18T06:32:55Z",
-            "owner": "dimkr",
-            "repo": "gplaces",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "min",
-          "description": "(Go) - supports advanced features like input and client certificate generation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-07-21T18:54:39Z",
-            "owner": "a-h",
-            "repo": "min",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemini-fetch",
-          "description": "(Node.js) - cURL-like CLI for loading content from Gemini URLs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-06T19:18:36Z",
-            "owner": "RangerMauve",
-            "repo": "gemini-fetch",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gremlin",
-          "description": "(Rust) - TUI for browsing Gemini space",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-12-03T09:32:15Z",
-            "owner": "actuday6418",
-            "repo": "gremlin",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Romulus",
-          "description": "(C#) - interactive TUI client with menus and mouse support",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2022-07-21T21:15:48Z",
-            "owner": "LukeEmmet",
-            "repo": "Romulus",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gemcurses",
-          "description": "(C) - A Gemini client, written in C using ncurses.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-02-27T15:17:40Z",
-            "owner": "crusom",
-            "repo": "Gemcurses",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "leo",
-          "description": "(Python) - lightweight, prompt-driven Gemini client.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-16T20:15:52Z",
-            "owner": "xyzshantaram",
-            "repo": "leo",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Omura",
-          "description": "(Node.js, Bun) - Pushing lightweight gemtext-based internet CLI client.",
-          "children": []
-        }
-      ],
-      "title": "Terminal"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Graphical"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Agregore",
-          "description": "(Electron.js) - peer to peer web browser with support for loading Gemini pages.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-13T14:45:15Z",
-            "owner": "AgregoreWeb",
-            "repo": "agregore-browser",
-            "stars": 922
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Kristall",
-          "description": "(C++) - graphical Gopher and Gemini client using QT.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-04-26T09:25:27Z",
-            "owner": "ikskuh",
-            "repo": "kristall",
-            "stars": 794
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Geopard",
-          "description": "(Rust) - A colorful, adaptive gemini browser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-09-01T15:57:53Z",
-            "owner": "ranfdev",
-            "repo": "Geopard",
-            "stars": 206
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alhena",
-          "description": "(Java) themes, color emojis on Mac, inline images, etc. jlinked exes do not require Java.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-10T12:16:49Z",
-            "owner": "mochaman",
-            "repo": "alhena",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Molasses",
-          "description": "(Racket) - full-featured graphical Gopher and Gemini client with tabs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Racket",
-            "last_commit": "2026-07-05T01:57:34Z",
-            "owner": "jjsimpso",
-            "repo": "molasses",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fossil",
-          "description": "(Vala) - GTK3 Gemini browser written in Vala for desktop and mobile.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vala",
-            "last_commit": "2021-11-11T17:32:24Z",
-            "owner": "koyuspace",
-            "repo": "fossil",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Yoda",
-          "description": "(Rust) - GTK 4 / Libadwaita client written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-12T07:40:50Z",
-            "owner": "YGGverse",
-            "repo": "Yoda",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eGemi",
-          "description": "(Rust) - Read gemtext and other plaintexts via and . (uses egui)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-08-17T02:09:40Z",
-            "owner": "NfNitLoop",
-            "repo": "egemi",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "spacewar",
-          "description": "(Electron.js) - EXPERIMENTAL and UNSTABLE Gemini browser running on Electron.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-08-24T23:15:37Z",
-            "owner": "ResonAtom",
-            "repo": "spacewar",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Cross-platform"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Deedum",
-          "description": "(Dart) - an Android and iOS client made with Flutter.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Dart",
-            "last_commit": "2025-07-31T19:54:47Z",
-            "owner": "snoe",
-            "repo": "deedum",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Buran",
-          "description": "(Kotlin/Java) - Gemini browser for Android, fork of Ariane.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2023-07-07T03:38:54Z",
-            "owner": "Corewala",
-            "repo": "Buran",
-            "stars": 134
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Elaho",
-          "description": "(Swift) - full featured Gemini protocol browser for iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Swift",
-            "last_commit": "2023-11-26T10:35:23Z",
-            "owner": "pitr",
-            "repo": "gemini-ios",
-            "stars": 129
-          }
-        }
-      ],
-      "title": "Mobile"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -385,6 +404,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268951141,
             "language": "Go",
             "last_commit": "2026-04-21T19:53:38Z",
             "owner": "makew0rld",
@@ -399,6 +419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 271628444,
             "language": "Go",
             "last_commit": "2022-07-09T21:15:36Z",
             "owner": "pitr",
@@ -413,6 +434,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 260705342,
             "language": "JavaScript",
             "last_commit": "2025-03-19T23:20:36Z",
             "owner": "derhuerst",
@@ -427,6 +449,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288031727,
             "language": "Go",
             "last_commit": "2025-04-21T17:42:16Z",
             "owner": "a-h",
@@ -441,6 +464,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 279979665,
             "language": "Go",
             "last_commit": "2022-07-23T21:49:33Z",
             "owner": "LukeEmmet",
@@ -455,6 +479,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264746044,
             "language": "Nim",
             "last_commit": "2021-10-30T23:20:57Z",
             "owner": "Koshroy",
@@ -469,6 +494,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 320246744,
             "language": "C#",
             "last_commit": "2022-07-23T14:38:24Z",
             "owner": "LukeEmmet",
@@ -483,6 +509,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 329025660,
             "language": "TypeScript",
             "last_commit": "2024-05-19T21:20:39Z",
             "owner": "sergetymo",
@@ -497,6 +524,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 409219050,
             "language": "C++",
             "last_commit": "2026-08-18T10:31:08Z",
             "owner": "marty1885",
@@ -511,6 +539,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 401194983,
             "language": "Go",
             "last_commit": "2024-10-17T01:30:39Z",
             "owner": "kulak",
@@ -525,6 +554,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351105322,
             "language": "Java",
             "last_commit": "2021-04-23T10:01:46Z",
             "owner": "warmuuh",
@@ -539,6 +569,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488484195,
             "language": "C#",
             "last_commit": "2024-01-06T21:19:58Z",
             "owner": "aschuhardt",
@@ -553,6 +584,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 600691884,
             "language": "Go",
             "last_commit": "2024-11-09T19:46:06Z",
             "owner": "codesoap",
@@ -567,6 +599,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347434836,
             "language": "Go",
             "last_commit": "2026-04-09T18:45:16Z",
             "owner": "ninedraft",
@@ -581,6 +614,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 381539027,
             "language": "Erlang",
             "last_commit": "2021-07-01T01:27:27Z",
             "owner": "WarpEngineer",
@@ -595,6 +629,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 336571725,
             "language": "C#",
             "last_commit": "2021-12-15T17:47:34Z",
             "owner": "aegis-dev",
@@ -609,6 +644,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311381431,
             "language": "Common Lisp",
             "last_commit": "2025-10-07T16:27:01Z",
             "owner": "omar-polo",
@@ -623,6 +659,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 874933974,
             "language": "Rust",
             "last_commit": "2026-05-12T06:58:47Z",
             "owner": "YGGverse",
@@ -637,6 +674,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 750255198,
             "language": "PHP",
             "last_commit": "2024-08-02T23:17:29Z",
             "owner": "YGGverse",
@@ -651,6 +689,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 874854806,
             "language": "Rust",
             "last_commit": "2026-05-12T07:39:46Z",
             "owner": "YGGverse",
@@ -665,6 +704,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 936146661,
             "language": "Rust",
             "last_commit": "2025-02-24T04:16:15Z",
             "owner": "YGGverse",
@@ -679,30 +719,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 818964155,
             "language": "PHP",
             "last_commit": "2024-07-08T02:54:45Z",
             "owner": "YGGverse",
             "repo": "gemtext-php",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "ignition",
-          "description": "(Python) - Gemini client transport/request library for python3.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "qgeminiserver",
-          "description": "(Deno/TypeScript) - framework for server applications. A kaksik fork that fixes bugs and keeps away bit-rot.",
-          "children": []
         }
       ],
       "title": "Programming"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -711,11 +740,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264589205,
             "language": "Rust",
             "last_commit": "2026-08-18T02:13:54Z",
             "owner": "mbrubeck",
             "repo": "agate",
-            "stars": 745
+            "stars": 746
           }
         },
         {
@@ -725,6 +755,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200565692,
             "language": "Python",
             "last_commit": "2026-02-09T15:11:39Z",
             "owner": "michael-lazar",
@@ -739,6 +770,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 300694853,
             "language": "C",
             "last_commit": "2026-08-01T14:44:06Z",
             "owner": "omar-polo",
@@ -753,6 +785,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288031727,
             "language": "Go",
             "last_commit": "2025-04-21T17:42:16Z",
             "owner": "a-h",
@@ -767,6 +800,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208162487,
             "language": "Lua",
             "last_commit": "2026-01-04T00:05:36Z",
             "owner": "spc476",
@@ -781,6 +815,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193393948,
             "language": "Common Lisp",
             "last_commit": "2021-05-11T12:05:23Z",
             "owner": "jfmcbrayer",
@@ -795,6 +830,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263947826,
             "language": "C",
             "last_commit": "2024-06-05T18:09:32Z",
             "owner": "jovoro",
@@ -809,6 +845,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 288030212,
             "language": "Nim",
             "last_commit": "2022-07-09T09:15:41Z",
             "owner": "ardek66",
@@ -823,6 +860,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 562272767,
             "language": "OCaml",
             "last_commit": "2026-08-14T23:00:09Z",
             "owner": "Psi-Prod",
@@ -837,6 +875,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265072060,
             "language": "Erlang",
             "last_commit": "2026-05-01T10:53:00Z",
             "owner": "mk270",
@@ -851,6 +890,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 264268803,
             "language": "Go",
             "last_commit": "2021-08-25T21:13:53Z",
             "owner": "jackdoe",
@@ -865,6 +905,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317601469,
             "language": "Python",
             "last_commit": "2025-04-06T19:50:17Z",
             "owner": "brunobord",
@@ -879,6 +920,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308961254,
             "language": "Rust",
             "last_commit": "2025-09-09T21:43:49Z",
             "owner": "panicbit",
@@ -893,6 +935,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 383540506,
             "language": "Go",
             "last_commit": "2021-07-29T12:12:39Z",
             "owner": "n0x1m",
@@ -907,6 +950,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 591534453,
             "language": "C#",
             "last_commit": "2025-06-25T01:40:17Z",
             "owner": "PlanetBunkum",
@@ -921,6 +965,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 474556213,
             "language": "Rust",
             "last_commit": "2026-06-13T14:10:29Z",
             "owner": "gemrest",
@@ -935,6 +980,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 529840663,
             "language": "C#",
             "last_commit": "2025-10-24T19:28:24Z",
             "owner": "Alumniminium",
@@ -949,6 +995,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 338300032,
             "language": "Rust",
             "last_commit": "2021-03-13T09:42:54Z",
             "owner": "mispecto",
@@ -963,6 +1010,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280334393,
             "language": "TypeScript",
             "last_commit": "2020-07-18T06:50:30Z",
             "owner": "caranatar",
@@ -977,6 +1025,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263628562,
             "language": "Prolog",
             "last_commit": "2020-09-07T12:06:29Z",
             "owner": "MagnificentPako",
@@ -991,6 +1040,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 322676270,
             "language": "Go",
             "last_commit": "2021-07-05T21:00:51Z",
             "owner": "pgorman",
@@ -1005,6 +1055,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 351105322,
             "language": "Java",
             "last_commit": "2021-04-23T10:01:46Z",
             "owner": "warmuuh",
@@ -1019,6 +1070,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 953088272,
             "language": "TypeScript",
             "last_commit": "2026-06-06T21:15:19Z",
             "owner": "mathiscode",
@@ -1033,6 +1085,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 341326637,
             "language": "PHP",
             "last_commit": "2022-02-04T17:04:53Z",
             "owner": "codeandcreate",
@@ -1047,6 +1100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289411647,
             "language": "Rust",
             "last_commit": "2020-10-10T14:56:16Z",
             "owner": "jahzielv",
@@ -1061,6 +1115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 451248424,
             "language": "Python",
             "last_commit": "2025-01-04T15:41:49Z",
             "owner": "rcarmo",
@@ -1075,6 +1130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 359929882,
             "language": "Kotlin",
             "last_commit": "2023-12-26T04:23:38Z",
             "owner": "bunburya",
@@ -1089,6 +1145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 502313697,
             "language": "C#",
             "last_commit": "2023-10-10T16:43:16Z",
             "owner": "aschuhardt",
@@ -1103,6 +1160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317687355,
             "language": "Java",
             "last_commit": "2025-05-25T01:51:49Z",
             "owner": "bhavanki",
@@ -1117,6 +1175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 473830621,
             "language": "PHP",
             "last_commit": "2022-03-27T14:57:08Z",
             "owner": "michaelcaplan",
@@ -1131,6 +1190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 509522835,
             "language": "Common Lisp",
             "last_commit": "2022-09-21T07:18:26Z",
             "owner": "aartaka",
@@ -1145,6 +1205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 720826935,
             "language": "PHP",
             "last_commit": "2024-04-18T07:25:35Z",
             "owner": "YGGverse",
@@ -1159,6 +1220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792901882,
             "language": "C",
             "last_commit": "2025-05-17T18:03:22Z",
             "owner": "wrclark",
@@ -1173,6 +1235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 509579949,
             "language": "Rust",
             "last_commit": "2022-08-07T20:22:31Z",
             "owner": "ambyshframber",
@@ -1187,6 +1250,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 316528762,
             "language": "Kotlin",
             "last_commit": "2020-12-03T20:02:00Z",
             "owner": "mrletourneau",
@@ -1201,6 +1265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 477631507,
             "language": "C++",
             "last_commit": "2026-03-04T04:15:37Z",
             "owner": "gemrest",
@@ -1215,6 +1280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1260391950,
             "language": "Java",
             "last_commit": "2026-06-18T14:42:46Z",
             "owner": "augmentedlogic",
@@ -1229,6 +1295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 748033562,
             "language": "PHP",
             "last_commit": "2024-03-07T11:30:38Z",
             "owner": "kevachat",
@@ -1243,6 +1310,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 788971925,
             "language": "PHP",
             "last_commit": "2024-05-07T05:50:02Z",
             "owner": "YGGverse",
@@ -1257,6 +1325,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 750260133,
             "language": "PHP",
             "last_commit": "2024-03-07T11:20:52Z",
             "owner": "YGGverse",
@@ -1271,6 +1340,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 935803831,
             "language": "Rust",
             "last_commit": "2025-02-24T04:19:34Z",
             "owner": "YGGverse",
@@ -1285,6 +1355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522322610,
             "language": "Ruby",
             "last_commit": "2022-08-31T18:05:56Z",
             "owner": "marek22k",
@@ -1299,6 +1370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 748738486,
             "language": "Clojure",
             "last_commit": "2024-02-12T13:27:15Z",
             "owner": "aburd",
@@ -1313,36 +1385,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1052548701,
             "language": "Rust",
             "last_commit": "2026-06-02T20:23:55Z",
             "owner": "YGGverse",
             "repo": "btracker-gemini",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Enceladus",
-          "description": "(F#) - A simple Gemini protocol server implementation in .NET Core and F#.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "geminispace-jsdoc-server",
-          "description": "A Gemini server for serving JSDoc documentation on the Deno runtime.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Lupa Pona",
-          "description": "(Perl) - simple single directory Gemini server.",
-          "children": []
         }
       ],
       "title": "Servers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1351,6 +1406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 427417287,
             "language": "C++",
             "last_commit": "2026-07-27T13:05:06Z",
             "owner": "marty1885",
@@ -1365,6 +1421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 748033562,
             "language": "PHP",
             "last_commit": "2024-03-07T11:30:38Z",
             "owner": "kevachat",
@@ -1379,6 +1436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 750260133,
             "language": "PHP",
             "last_commit": "2024-03-07T11:20:52Z",
             "owner": "YGGverse",
@@ -1393,24 +1451,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 760174106,
             "language": "PHP",
             "last_commit": "2024-03-07T11:29:24Z",
             "owner": "kvazar-network",
             "repo": "geminiapp",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "gemini://flounder.online (https version",
-          "description": ") - host small Gemini web pages over https and Gemini (repo).",
-          "children": []
         }
       ],
       "title": "Services"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1419,6 +1472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 261224257,
             "language": "Go",
             "last_commit": "2025-05-28T15:52:47Z",
             "owner": "makew0rld",
@@ -1433,6 +1487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283071298,
             "language": "Go",
             "last_commit": "2026-02-21T18:06:44Z",
             "owner": "kconner",
@@ -1447,6 +1502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345457345,
             "language": "Python",
             "last_commit": "2026-04-07T02:20:06Z",
             "owner": "mkamarin",
@@ -1461,6 +1517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265981148,
             "language": "Python",
             "last_commit": "2022-07-22T19:34:18Z",
             "owner": "michael-lazar",
@@ -1475,6 +1532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 737636998,
             "language": "C",
             "last_commit": "2026-06-24T05:41:25Z",
             "owner": "zzo38",
@@ -1489,6 +1547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 740221157,
             "language": "Rust",
             "last_commit": "2024-05-04T21:05:15Z",
             "owner": "justlark",
@@ -1503,6 +1562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 345224235,
             "language": "Go",
             "last_commit": "2021-04-20T22:42:28Z",
             "owner": "t-900-a",
@@ -1517,6 +1577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 347271960,
             "language": "Python",
             "last_commit": "2023-01-29T04:27:44Z",
             "owner": "mkamarin",
@@ -1531,6 +1592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 788971925,
             "language": "PHP",
             "last_commit": "2024-05-07T05:50:02Z",
             "owner": "YGGverse",
@@ -1545,6 +1607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 931045139,
             "language": "Rust",
             "last_commit": "2025-09-03T06:09:20Z",
             "owner": "YGGverse",
@@ -1559,290 +1622,306 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 819567821,
             "language": "PHP",
             "last_commit": "2025-11-11T19:13:16Z",
             "owner": "YGGverse",
             "repo": "gemini-dl",
             "stars": 0
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "md2gemini",
+              "description": "(Python) - converter from Markdown to the Gemini text format.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 264547992,
+                "language": "Python",
+                "last_commit": "2023-08-06T19:25:15Z",
+                "owner": "makew0rld",
+                "repo": "md2gemini",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dioscuri",
+              "description": "(JS) - A Gemtext parser with interfaces to transform to and from mdast (markdown ast) and to compile to HTML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 327290147,
+                "language": "JavaScript",
+                "last_commit": "2026-06-09T18:44:26Z",
+                "owner": "wooorm",
+                "repo": "dioscuri",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "html2gmi",
+              "description": "(Go) - command line utility to convert HTML to gemtext",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284000672,
+                "language": "Go",
+                "last_commit": "2022-04-16T17:12:04Z",
+                "owner": "LukeEmmet",
+                "repo": "html2gmi",
+                "stars": 41
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hugo-2-Gopher-and-Gemini",
+              "description": "(Python) - A Hugo theme to convert a Hugo site to Gemini or Gopher.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 345457345,
+                "language": "Python",
+                "last_commit": "2026-04-07T02:20:06Z",
+                "owner": "mkamarin",
+                "repo": "Hugo-2-Gopher-and-Gemini",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gemini-to-html",
+              "description": "(Node.js) - JavaScript library for parsing Gemini pages, and for rendering them to HTML.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288326359,
+                "language": "JavaScript",
+                "last_commit": "2024-03-13T18:32:46Z",
+                "owner": "RangerMauve",
+                "repo": "gemini-to-html",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gmi2html",
+              "description": "(Zig) - tiny gemtext to HTML converter with a focus on performance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 326663405,
+                "language": "Zig",
+                "last_commit": "2023-09-16T17:28:31Z",
+                "owner": "shtanton",
+                "repo": "gmi2html",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gemini-pandoc-lua-filter",
+              "description": "(Lua) - lua filter for pandoc to output Gemini text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282446147,
+                "language": "Lua",
+                "last_commit": "2020-07-26T18:31:31Z",
+                "owner": "kr1sp1n",
+                "repo": "gemini-pandoc-lua-filter",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Html2GeminiPy",
+              "description": "(Python) - Converts Html sites to Gemini sites using markdownify and md2gemini.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 340731201,
+                "language": "Python",
+                "last_commit": "2021-02-20T19:11:59Z",
+                "owner": "Aarontheissueguy",
+                "repo": "Html2GeminiPy",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gemtext2md",
+              "description": "(Rust) - tool for converting Gemtext to Markdown",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 509710180,
+                "language": "Rust",
+                "last_commit": "2023-10-24T16:40:45Z",
+                "owner": "mk270",
+                "repo": "gemtext2md",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gemtext2latex",
+              "description": "(Python) - tool for converting Gemtext to reasonable LaTeX and thence PDF",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 486754735,
+                "language": "Python",
+                "last_commit": "2025-08-18T11:06:14Z",
+                "owner": "mk270",
+                "repo": "gemtext2latex",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gemini-php",
+              "description": "(PHP) - Composer library for Gemini - includes DokuWiki converter, file-system operations and other API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 750255198,
+                "language": "PHP",
+                "last_commit": "2024-08-02T23:17:29Z",
+                "owner": "YGGverse",
+                "repo": "gemini-php",
+                "stars": 0
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ggemtext",
+              "description": "(Rust) - Glib-oriented Gemtext API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 874854806,
+                "language": "Rust",
+                "last_commit": "2026-05-12T07:39:46Z",
+                "owner": "YGGverse",
+                "repo": "ggemtext",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Gemtext converters"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gemini.yml",
+              "description": "text/gemini syntax highlighting for micro.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53632140,
+                "language": "Go",
+                "last_commit": "2026-08-19T01:13:27Z",
+                "owner": "micro-editor",
+                "repo": "micro",
+                "stars": 29383
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "language_gmi",
+              "description": "gemtext syntax highlighting for lite-xl",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 439706503,
+                "language": "Lua",
+                "last_commit": "2026-05-06T15:01:09Z",
+                "owner": "lite-xl",
+                "repo": "lite-xl-plugins",
+                "stars": 514
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gemini.kak",
+              "description": "text/gemini syntax highlighting for kakoune.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 215763295,
+                "language": "Makefile",
+                "last_commit": "2021-08-06T07:21:26Z",
+                "owner": "kakoune-editor",
+                "repo": "kakoune-extra-filetypes",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gemini.sublime-syntax",
+              "description": "text/gemini syntax highlighting for bat (and maybe Sublime Text).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294312406,
+                "language": "Shell",
+                "last_commit": "2025-10-06T07:04:27Z",
+                "owner": "adiabatic",
+                "repo": "gemini.sublime-syntax",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gemini.nanorc",
+              "description": "text/gemini syntax highlighting for nano.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258533134,
+                "language": "Shell",
+                "last_commit": "2020-05-08T17:15:37Z",
+                "owner": "yzzyx-network",
+                "repo": "nanorc",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gemini-intellij-plugin",
+              "description": "text/gemini syntax highlighting for IntelliJ IDEs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 570697130,
+                "language": "Java",
+                "last_commit": "2022-12-06T02:15:51Z",
+                "owner": "michael-lazar",
+                "repo": "gemini-intellij-plugin",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Syntax Highlighting"
         }
       ],
       "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "md2gemini",
-          "description": "(Python) - converter from Markdown to the Gemini text format.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-08-06T19:25:15Z",
-            "owner": "makew0rld",
-            "repo": "md2gemini",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dioscuri",
-          "description": "(JS) - A Gemtext parser with interfaces to transform to and from mdast (markdown ast) and to compile to HTML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-06-09T18:44:26Z",
-            "owner": "wooorm",
-            "repo": "dioscuri",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "html2gmi",
-          "description": "(Go) - command line utility to convert HTML to gemtext",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-04-16T17:12:04Z",
-            "owner": "LukeEmmet",
-            "repo": "html2gmi",
-            "stars": 41
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hugo-2-Gopher-and-Gemini",
-          "description": "(Python) - A Hugo theme to convert a Hugo site to Gemini or Gopher.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-07T02:20:06Z",
-            "owner": "mkamarin",
-            "repo": "Hugo-2-Gopher-and-Gemini",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemini-to-html",
-          "description": "(Node.js) - JavaScript library for parsing Gemini pages, and for rendering them to HTML.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-03-13T18:32:46Z",
-            "owner": "RangerMauve",
-            "repo": "gemini-to-html",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gmi2html",
-          "description": "(Zig) - tiny gemtext to HTML converter with a focus on performance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Zig",
-            "last_commit": "2023-09-16T17:28:31Z",
-            "owner": "shtanton",
-            "repo": "gmi2html",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemini-pandoc-lua-filter",
-          "description": "(Lua) - lua filter for pandoc to output Gemini text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2020-07-26T18:31:31Z",
-            "owner": "kr1sp1n",
-            "repo": "gemini-pandoc-lua-filter",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Html2GeminiPy",
-          "description": "(Python) - Converts Html sites to Gemini sites using markdownify and md2gemini.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-02-20T19:11:59Z",
-            "owner": "Aarontheissueguy",
-            "repo": "Html2GeminiPy",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemtext2md",
-          "description": "(Rust) - tool for converting Gemtext to Markdown",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-10-24T16:40:45Z",
-            "owner": "mk270",
-            "repo": "gemtext2md",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemtext2latex",
-          "description": "(Python) - tool for converting Gemtext to reasonable LaTeX and thence PDF",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-08-18T11:06:14Z",
-            "owner": "mk270",
-            "repo": "gemtext2latex",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemini-php",
-          "description": "(PHP) - Composer library for Gemini - includes DokuWiki converter, file-system operations and other API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2024-08-02T23:17:29Z",
-            "owner": "YGGverse",
-            "repo": "gemini-php",
-            "stars": 0
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ggemtext",
-          "description": "(Rust) - Glib-oriented Gemtext API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-12T07:39:46Z",
-            "owner": "YGGverse",
-            "repo": "ggemtext",
-            "stars": 0
-          }
-        }
-      ],
-      "title": "Gemtext converters"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gemini.yml",
-          "description": "text/gemini syntax highlighting for micro.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T01:12:05Z",
-            "owner": "micro-editor",
-            "repo": "micro",
-            "stars": 29375
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "language_gmi",
-          "description": "gemtext syntax highlighting for lite-xl",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Lua",
-            "last_commit": "2026-05-06T15:01:09Z",
-            "owner": "lite-xl",
-            "repo": "lite-xl-plugins",
-            "stars": 514
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemini.kak",
-          "description": "text/gemini syntax highlighting for kakoune.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Makefile",
-            "last_commit": "2021-08-06T07:21:26Z",
-            "owner": "kakoune-editor",
-            "repo": "kakoune-extra-filetypes",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemini.sublime-syntax",
-          "description": "text/gemini syntax highlighting for bat (and maybe Sublime Text).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2025-10-06T07:04:27Z",
-            "owner": "adiabatic",
-            "repo": "gemini.sublime-syntax",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemini.nanorc",
-          "description": "text/gemini syntax highlighting for nano.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2020-05-08T17:15:37Z",
-            "owner": "yzzyx-network",
-            "repo": "nanorc",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemini-intellij-plugin",
-          "description": "text/gemini syntax highlighting for IntelliJ IDEs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-12-06T02:15:51Z",
-            "owner": "michael-lazar",
-            "repo": "gemini-intellij-plugin",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gemini-zed",
-          "description": "text/gemini syntax highlighting for Zed text editor",
-          "children": []
-        }
-      ],
-      "title": "Syntax Highlighting"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:36:29.603Z",
+    "last_updated": "2026-08-19T12:30:44.329Z",
     "original_repository": "kr1sp1n/awesome-gemini",
+    "original_repository_id": 289205582,
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
     "enhanced_repository": "enhansome/enhansome-gemini",
     "enhanced_repository_description": null,
