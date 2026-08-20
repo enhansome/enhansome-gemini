@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 233130089,
                 "language": "Go",
-                "last_commit": "2026-08-19T11:56:34Z",
+                "last_commit": "2026-08-19T15:32:03Z",
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 44455
+                "stars": 44457
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-03T14:50:21Z",
                 "owner": "makew0rld",
                 "repo": "amfora",
-                "stars": 1351
+                "stars": 1352
               }
             },
             {
@@ -526,7 +526,7 @@
             "archived": false,
             "id": 409219050,
             "language": "C++",
-            "last_commit": "2026-08-18T10:31:08Z",
+            "last_commit": "2026-08-20T08:00:08Z",
             "owner": "marty1885",
             "repo": "dremini",
             "stars": 11
@@ -745,7 +745,7 @@
             "last_commit": "2026-08-18T02:13:54Z",
             "owner": "mbrubeck",
             "repo": "agate",
-            "stars": 746
+            "stars": 747
           }
         },
         {
@@ -1828,10 +1828,10 @@
                 "archived": false,
                 "id": 53632140,
                 "language": "Go",
-                "last_commit": "2026-08-19T01:13:27Z",
+                "last_commit": "2026-08-20T01:11:28Z",
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29387
+                "stars": 29400
               }
             },
             {
@@ -1919,7 +1919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T14:36:46.114Z",
+    "last_updated": "2026-08-20T14:38:54.572Z",
     "original_repository": "kr1sp1n/awesome-gemini",
     "original_repository_id": 289205582,
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
