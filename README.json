@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T15:32:03Z",
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 44457
+                "stars": 44479
               }
             },
             {
@@ -92,7 +92,7 @@
                 "last_commit": "2026-06-18T06:32:55Z",
                 "owner": "dimkr",
                 "repo": "gplaces",
-                "stars": 48
+                "stars": 49
               }
             },
             {
@@ -221,7 +221,7 @@
                     "last_commit": "2026-04-26T09:25:27Z",
                     "owner": "ikskuh",
                     "repo": "kristall",
-                    "stars": 794
+                    "stars": 795
                   }
                 },
                 {
@@ -742,7 +742,7 @@
             "archived": false,
             "id": 264589205,
             "language": "Rust",
-            "last_commit": "2026-08-18T02:13:54Z",
+            "last_commit": "2026-08-20T17:13:28Z",
             "owner": "mbrubeck",
             "repo": "agate",
             "stars": 747
@@ -1659,7 +1659,7 @@
                 "last_commit": "2026-06-09T18:44:26Z",
                 "owner": "wooorm",
                 "repo": "dioscuri",
-                "stars": 44
+                "stars": 43
               }
             },
             {
@@ -1828,10 +1828,10 @@
                 "archived": false,
                 "id": 53632140,
                 "language": "Go",
-                "last_commit": "2026-08-20T01:11:28Z",
+                "last_commit": "2026-08-21T01:16:34Z",
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29400
+                "stars": 29406
               }
             },
             {
@@ -1919,7 +1919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:38:54.572Z",
+    "last_updated": "2026-08-21T14:38:12.981Z",
     "original_repository": "kr1sp1n/awesome-gemini",
     "original_repository_id": 289205582,
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
