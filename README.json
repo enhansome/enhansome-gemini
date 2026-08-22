@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T15:32:03Z",
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 44479
+                "stars": 44490
               }
             },
             {
@@ -248,7 +248,7 @@
                     "archived": false,
                     "id": 929210843,
                     "language": "Java",
-                    "last_commit": "2026-08-10T12:16:49Z",
+                    "last_commit": "2026-08-22T13:17:56Z",
                     "owner": "mochaman",
                     "repo": "alhena",
                     "stars": 59
@@ -1828,10 +1828,10 @@
                 "archived": false,
                 "id": 53632140,
                 "language": "Go",
-                "last_commit": "2026-08-21T01:16:34Z",
+                "last_commit": "2026-08-22T00:17:13Z",
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29406
+                "stars": 29414
               }
             },
             {
@@ -1919,7 +1919,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T14:38:12.981Z",
+    "last_updated": "2026-08-22T14:24:36.128Z",
     "original_repository": "kr1sp1n/awesome-gemini",
     "original_repository_id": 289205582,
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
