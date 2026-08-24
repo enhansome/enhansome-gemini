@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T15:32:03Z",
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 44501
+                "stars": 44518
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-07-03T14:50:21Z",
                 "owner": "makew0rld",
                 "repo": "amfora",
-                "stars": 1352
+                "stars": 1353
               }
             },
             {
@@ -385,6 +385,50 @@
               "description": null,
               "node_type": "group",
               "title": "Mobile"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Jimmy",
+                  "description": "(SwiftUI) - a lightweight native Gemini client for MacOS",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 460644742,
+                    "language": "Swift",
+                    "last_commit": "2023-09-10T14:14:42Z",
+                    "owner": "jfoucher",
+                    "repo": "Jimmy",
+                    "stars": 81
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "MacOS"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GeminiFS",
+                  "description": "(C) - FUSE filesystem for Gemini capsules.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 893107003,
+                    "language": "C",
+                    "last_commit": "2024-11-26T14:45:12Z",
+                    "owner": "harkaitz",
+                    "repo": "c-geminifs",
+                    "stars": 8
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "File System"
             }
           ],
           "description": null,
@@ -526,7 +570,7 @@
             "archived": false,
             "id": 409219050,
             "language": "C++",
-            "last_commit": "2026-08-20T08:00:08Z",
+            "last_commit": "2026-08-24T07:48:14Z",
             "owner": "marty1885",
             "repo": "dremini",
             "stars": 11
@@ -544,6 +588,21 @@
             "last_commit": "2024-10-17T01:30:39Z",
             "owner": "kulak",
             "repo": "gemini",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gmir",
+          "description": "(Go) - A reader for gmi files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 600691884,
+            "language": "Go",
+            "last_commit": "2024-11-09T19:46:06Z",
+            "owner": "codesoap",
+            "repo": "gmir",
             "stars": 9
           }
         },
@@ -575,21 +634,6 @@
             "owner": "aschuhardt",
             "repo": "Opal",
             "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gmir",
-          "description": "(Go) - A reader for gmi files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 600691884,
-            "language": "Go",
-            "last_commit": "2024-11-09T19:46:06Z",
-            "owner": "codesoap",
-            "repo": "gmir",
-            "stars": 8
           }
         },
         {
@@ -1587,21 +1631,6 @@
         },
         {
           "node_type": "item",
-          "title": "Pulsar",
-          "description": "(PHP) - RSS Aggregator for Gemini Protocol",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 788971925,
-            "language": "PHP",
-            "last_commit": "2024-05-07T05:50:02Z",
-            "owner": "YGGverse",
-            "repo": "Pulsar",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
           "title": "pulsarss",
           "description": "(Rust) - Crawl & Convert RSS feeds into static Gemtext",
           "children": [],
@@ -1612,6 +1641,21 @@
             "last_commit": "2025-09-03T06:09:20Z",
             "owner": "YGGverse",
             "repo": "pulsarss",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pulsar",
+          "description": "(PHP) - RSS Aggregator for Gemini Protocol",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 788971925,
+            "language": "PHP",
+            "last_commit": "2024-05-07T05:50:02Z",
+            "owner": "YGGverse",
+            "repo": "Pulsar",
             "stars": 2
           }
         },
@@ -1828,10 +1872,10 @@
                 "archived": false,
                 "id": 53632140,
                 "language": "Go",
-                "last_commit": "2026-08-23T00:18:29Z",
+                "last_commit": "2026-08-24T00:16:32Z",
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29425
+                "stars": 29432
               }
             },
             {
@@ -1919,7 +1963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:26:36.691Z",
+    "last_updated": "2026-08-24T14:13:00.982Z",
     "original_repository": "kr1sp1n/awesome-gemini",
     "original_repository_id": 289205582,
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
