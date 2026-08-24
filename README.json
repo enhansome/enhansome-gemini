@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T15:32:03Z",
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 44518
+                "stars": 44519
               }
             },
             {
@@ -570,7 +570,7 @@
             "archived": false,
             "id": 409219050,
             "language": "C++",
-            "last_commit": "2026-08-24T07:48:14Z",
+            "last_commit": "2026-08-24T14:40:15Z",
             "owner": "marty1885",
             "repo": "dremini",
             "stars": 11
@@ -1963,7 +1963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:13:00.982Z",
+    "last_updated": "2026-08-24T14:50:21.963Z",
     "original_repository": "kr1sp1n/awesome-gemini",
     "original_repository_id": 289205582,
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
