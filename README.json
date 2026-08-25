@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T15:32:03Z",
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 44519
+                "stars": 44529
               }
             },
             {
@@ -570,7 +570,7 @@
             "archived": false,
             "id": 409219050,
             "language": "C++",
-            "last_commit": "2026-08-24T14:40:15Z",
+            "last_commit": "2026-08-25T03:26:46Z",
             "owner": "marty1885",
             "repo": "dremini",
             "stars": 11
@@ -801,7 +801,7 @@
             "archived": false,
             "id": 200565692,
             "language": "Python",
-            "last_commit": "2026-02-09T15:11:39Z",
+            "last_commit": "2026-08-25T00:02:06Z",
             "owner": "michael-lazar",
             "repo": "jetforce",
             "stars": 217
@@ -1872,10 +1872,10 @@
                 "archived": false,
                 "id": 53632140,
                 "language": "Go",
-                "last_commit": "2026-08-24T00:16:32Z",
+                "last_commit": "2026-08-25T00:17:54Z",
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29432
+                "stars": 29433
               }
             },
             {
@@ -1963,7 +1963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:50:21.963Z",
+    "last_updated": "2026-08-25T06:01:48.285Z",
     "original_repository": "kr1sp1n/awesome-gemini",
     "original_repository_id": 289205582,
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
