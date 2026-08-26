@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T15:32:03Z",
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 44540
+                "stars": 44565
               }
             },
             {
@@ -248,7 +248,7 @@
                     "archived": false,
                     "id": 929210843,
                     "language": "Java",
-                    "last_commit": "2026-08-22T13:17:56Z",
+                    "last_commit": "2026-08-26T13:07:48Z",
                     "owner": "mochaman",
                     "repo": "alhena",
                     "stars": 59
@@ -786,7 +786,7 @@
             "archived": false,
             "id": 264589205,
             "language": "Rust",
-            "last_commit": "2026-08-20T17:13:28Z",
+            "last_commit": "2026-08-26T10:12:33Z",
             "owner": "mbrubeck",
             "repo": "agate",
             "stars": 747
@@ -1872,10 +1872,10 @@
                 "archived": false,
                 "id": 53632140,
                 "language": "Go",
-                "last_commit": "2026-08-25T00:17:54Z",
+                "last_commit": "2026-08-26T00:17:30Z",
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29435
+                "stars": 29438
               }
             },
             {
@@ -1890,7 +1890,7 @@
                 "last_commit": "2026-05-06T15:01:09Z",
                 "owner": "lite-xl",
                 "repo": "lite-xl-plugins",
-                "stars": 514
+                "stars": 515
               }
             },
             {
@@ -1963,7 +1963,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T14:49:48.453Z",
+    "last_updated": "2026-08-26T14:48:19.728Z",
     "original_repository": "kr1sp1n/awesome-gemini",
     "original_repository_id": 289205582,
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
