@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T15:32:03Z",
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 44565
+                "stars": 44591
               }
             },
             {
@@ -206,7 +206,7 @@
                     "last_commit": "2026-07-13T14:45:15Z",
                     "owner": "AgregoreWeb",
                     "repo": "agregore-browser",
-                    "stars": 922
+                    "stars": 921
                   }
                 },
                 {
@@ -221,7 +221,7 @@
                     "last_commit": "2026-04-26T09:25:27Z",
                     "owner": "ikskuh",
                     "repo": "kristall",
-                    "stars": 795
+                    "stars": 796
                   }
                 },
                 {
@@ -786,7 +786,7 @@
             "archived": false,
             "id": 264589205,
             "language": "Rust",
-            "last_commit": "2026-08-26T10:12:33Z",
+            "last_commit": "2026-08-26T18:02:15Z",
             "owner": "mbrubeck",
             "repo": "agate",
             "stars": 747
@@ -804,7 +804,7 @@
             "last_commit": "2026-08-25T00:02:06Z",
             "owner": "michael-lazar",
             "repo": "jetforce",
-            "stars": 217
+            "stars": 218
           }
         },
         {
@@ -1872,10 +1872,10 @@
                 "archived": false,
                 "id": 53632140,
                 "language": "Go",
-                "last_commit": "2026-08-26T00:17:30Z",
+                "last_commit": "2026-08-27T01:40:06Z",
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29438
+                "stars": 29445
               }
             },
             {
@@ -1963,9 +1963,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T14:48:19.728Z",
-    "original_repository": "kr1sp1n/awesome-gemini",
-    "original_repository_id": 289205582,
+    "last_updated": "2026-08-27T11:46:04.974Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 289205582,
+      "language": null,
+      "last_commit": "2026-06-07T16:11:47Z",
+      "owner": "kr1sp1n",
+      "repo": "awesome-gemini",
+      "stars": 1538
+    },
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
     "enhanced_repository": "enhansome/enhansome-gemini",
     "enhanced_repository_description": null,
