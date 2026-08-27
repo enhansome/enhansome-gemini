@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T15:32:03Z",
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 44591
+                "stars": 44605
               }
             },
             {
@@ -1490,6 +1490,21 @@
         },
         {
           "node_type": "item",
+          "title": "gemini://flounder.online (https version",
+          "description": ") - host small Gemini web pages over https and Gemini (repo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1348950591,
+            "language": "Go",
+            "last_commit": "2026-08-27T21:22:01Z",
+            "owner": "alexwennerberg",
+            "repo": "flounder",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
           "title": "gemini://kvazar.duckdns.org - Observe Kevacoin Universe (repo",
           "description": ")",
           "children": [],
@@ -1872,10 +1887,10 @@
                 "archived": false,
                 "id": 53632140,
                 "language": "Go",
-                "last_commit": "2026-08-27T01:40:06Z",
+                "last_commit": "2026-08-27T16:06:55Z",
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29445
+                "stars": 29444
               }
             },
             {
@@ -1963,7 +1978,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:04.974Z",
+    "last_updated": "2026-08-27T23:39:52.924Z",
     "original_repository_info": {
       "archived": false,
       "id": 289205582,
@@ -1971,7 +1986,7 @@
       "last_commit": "2026-06-07T16:11:47Z",
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1538
+      "stars": 1540
     },
     "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
     "enhanced_repository": "enhansome/enhansome-gemini",
