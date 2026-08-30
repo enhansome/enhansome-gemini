@@ -21,7 +21,7 @@
                 "open_issues": 206,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 44669,
+                "stars": 44695,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -51,7 +51,7 @@
                 "open_issues": 9,
                 "owner": "makew0rld",
                 "repo": "amfora",
-                "stars": 1353,
+                "stars": 1354,
                 "topics": [
                   "browser",
                   "gemini",
@@ -417,7 +417,7 @@
                     "id": 929210843,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-08-26T13:07:48Z",
+                    "last_commit": "2026-08-30T17:56:49Z",
                     "open_issues": 1,
                     "owner": "mochaman",
                     "repo": "alhena",
@@ -1318,7 +1318,7 @@
             "open_issues": 7,
             "owner": "mbrubeck",
             "repo": "agate",
-            "stars": 747,
+            "stars": 749,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -2436,7 +2436,7 @@
             "open_issues": 2,
             "owner": "marty1885",
             "repo": "tlgs",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "drogon",
               "gemini",
@@ -3172,11 +3172,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T00:31:23Z",
+                "last_commit": "2026-08-30T00:37:13Z",
                 "open_issues": 986,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29462,
+                "stars": 29473,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3203,7 +3203,7 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-05-06T15:01:09Z",
-                "open_issues": 124,
+                "open_issues": 126,
                 "owner": "lite-xl",
                 "repo": "lite-xl-plugins",
                 "stars": 516,
@@ -3315,7 +3315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:34:26.740Z",
+    "last_updated": "2026-08-30T17:58:55.548Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3327,7 +3327,7 @@
       "open_issues": 9,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1540,
+      "stars": 1541,
       "topics": [
         "awesome",
         "awesome-list",
