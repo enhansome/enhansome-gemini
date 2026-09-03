@@ -21,7 +21,7 @@
                 "open_issues": 207,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 44765,
+                "stars": 44782,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -51,7 +51,7 @@
                 "open_issues": 9,
                 "owner": "makew0rld",
                 "repo": "amfora",
-                "stars": 1354,
+                "stars": 1355,
                 "topics": [
                   "browser",
                   "gemini",
@@ -139,7 +139,7 @@
                 "open_issues": 1,
                 "owner": "blmayer",
                 "repo": "ereandel",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "browser",
                   "gemini",
@@ -358,7 +358,7 @@
                     "language": "C++",
                     "license": "GPL-3.0",
                     "last_commit": "2026-04-26T09:25:27Z",
-                    "open_issues": 43,
+                    "open_issues": 44,
                     "owner": "ikskuh",
                     "repo": "kristall",
                     "stars": 796,
@@ -417,7 +417,7 @@
                     "id": 929210843,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-02T14:53:20Z",
+                    "last_commit": "2026-09-03T14:14:41Z",
                     "open_issues": 1,
                     "owner": "mochaman",
                     "repo": "alhena",
@@ -771,31 +771,6 @@
         },
         {
           "node_type": "item",
-          "title": "derhuerst/gemini",
-          "description": "(Node.js) - server & client lib.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Gemini protocol server & client for Node.js.",
-            "homepage": null,
-            "id": 260705342,
-            "language": "JavaScript",
-            "license": "ISC",
-            "last_commit": "2025-03-19T23:20:36Z",
-            "open_issues": 4,
-            "owner": "derhuerst",
-            "repo": "gemini",
-            "stars": 52,
-            "topics": [
-              "gemini",
-              "protocol",
-              "server"
-            ]
-          },
-          "first_seen": "2026-08-28T23:28:25.429Z"
-        },
-        {
-          "node_type": "item",
           "title": "a-h/gemini",
           "description": "(Go) - Applications and libraries for building applications on Gemini.",
           "children": [],
@@ -812,6 +787,31 @@
             "repo": "gemini",
             "stars": 52,
             "topics": []
+          },
+          "first_seen": "2026-08-28T23:28:25.429Z"
+        },
+        {
+          "node_type": "item",
+          "title": "derhuerst/gemini",
+          "description": "(Node.js) - server & client lib.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Gemini protocol server & client for Node.js.",
+            "homepage": null,
+            "id": 260705342,
+            "language": "JavaScript",
+            "license": "ISC",
+            "last_commit": "2025-03-19T23:20:36Z",
+            "open_issues": 4,
+            "owner": "derhuerst",
+            "repo": "gemini",
+            "stars": 51,
+            "topics": [
+              "gemini",
+              "protocol",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
         },
@@ -1512,7 +1512,7 @@
             "id": 265072060,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-05-01T10:53:00Z",
+            "last_commit": "2026-09-03T10:24:29Z",
             "open_issues": 8,
             "owner": "mk270",
             "repo": "blizanci",
@@ -3172,11 +3172,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-02T00:35:49Z",
-                "open_issues": 971,
+                "last_commit": "2026-09-03T00:35:44Z",
+                "open_issues": 973,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29503,
+                "stars": 29511,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3315,7 +3315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T17:43:37.806Z",
+    "last_updated": "2026-09-03T17:38:53.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3327,7 +3327,7 @@
       "open_issues": 10,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1541,
+      "stars": 1540,
       "topics": [
         "awesome",
         "awesome-list",
