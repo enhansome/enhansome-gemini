@@ -9,7 +9,7 @@ Repo mirrors:
 * <https://codeberg.org/kr1sp1n/awesome-gemini>
 * <https://git.sr.ht/~kr1sp1n/awesome-gemini>
 * <https://gitlab.com/kr1sp1n/awesome-gemini>
-* <https://github.com/kr1sp1n/awesome-gemini> ⭐ 1,549 | 🐛 12 | 📅 2026-06-07
+* <https://github.com/kr1sp1n/awesome-gemini> ⭐ 1,550 | 🐛 12 | 📅 2026-06-07
 
 ## What is Gemini
 
@@ -48,7 +48,7 @@ Repo mirrors:
 
 ### Terminal
 
-* [gembro](https://git.sr.ht/~rafael/gembro) (Go) - gemini client using [Bubble Tea](https://github.com/charmbracelet/bubbletea) ⭐ 45,001 | 🐛 223 | 🌐 Go | 📅 2026-09-17.
+* [gembro](https://git.sr.ht/~rafael/gembro) (Go) - gemini client using [Bubble Tea](https://github.com/charmbracelet/bubbletea) ⭐ 45,019 | 🐛 223 | 🌐 Go | 📅 2026-09-17.
 * [Amfora](https://github.com/makeworld-the-better-one/amfora) ⭐ 1,358 | 🐛 10 | 🌐 Go | 📅 2026-07-03 (Go) - "fancy" terminal client. In [maintenance mode](https://www.makeworld.space/2023/08/bye_gemini.html).
 * [ncgopher](https://github.com/jansc/ncgopher) ⭐ 231 | 🐛 10 | 🌐 Rust | 📅 2026-06-11 (Rust) - gopher and gemini client for the modern internet.
 * [gmi100](https://github.com/ir33k/gmi100) ⭐ 84 | 🐛 1 | 🌐 C | 📅 2024-10-29 (C) - CLI Gemini client written in 100 lines of ANSI C.
@@ -90,14 +90,14 @@ Repo mirrors:
 
 #### Cross-platform
 
-* [Agregore](https://github.com/RangerMauve/agregore-browser#fetch-api-for-gemini) ⭐ 921 | 🐛 103 | 🌐 JavaScript | 📅 2026-07-13 - (Electron.js) - peer to peer web browser with support for loading Gemini pages.
-* [Kristall](https://github.com/MasterQ32/kristall) ⭐ 797 | 🐛 42 | 🌐 C++ | 📅 2026-09-08 (C++) - graphical Gopher and Gemini client using QT.
+* [Agregore](https://github.com/RangerMauve/agregore-browser#fetch-api-for-gemini) ⭐ 922 | 🐛 103 | 🌐 JavaScript | 📅 2026-07-13 - (Electron.js) - peer to peer web browser with support for loading Gemini pages.
+* [Kristall](https://github.com/MasterQ32/kristall) ⭐ 797 | 🐛 43 | 🌐 C++ | 📅 2026-09-08 (C++) - graphical Gopher and Gemini client using QT.
 * [Geopard](https://github.com/ranfdev/Geopard) ⭐ 205 | 🐛 41 | 🌐 Rust | 📅 2025-09-01 (Rust) - A colorful, adaptive gemini browser.
 * [Alhena](https://github.com/mochaman/alhena) ⭐ 59 | 🐛 1 | 🌐 Java | 📅 2026-09-05 - (Java) themes, color emojis on Mac, inline images, etc. jlinked exes do not require Java.
 * [Molasses](https://github.com/jjsimpso/molasses) ⭐ 36 | 🐛 2 | 🌐 Racket | 📅 2026-07-05 (Racket) - full-featured graphical Gopher and Gemini client with tabs.
 * [Fossil](https://github.com/koyuspace/fossil) ⚠️ Archived (Vala) - GTK3 Gemini browser written in Vala for desktop and mobile.
 * [Yoda](https://github.com/YGGverse/Yoda) ⭐ 23 | 🐛 8 | 🌐 Rust | 📅 2026-05-12 (Rust) - GTK 4 / Libadwaita client written in Rust.
-* [eGemi](https://github.com/nfnitloop/egemi) ⭐ 6 | 🐛 4 | 🌐 Rust | 📅 2025-08-17 (Rust) - Read gemtext and other plaintexts via `gemini://` *and* `https://`. (uses [egui](https://github.com/emilk/egui) ⭐ 30,600 | 🐛 1,127 | 🌐 Rust | 📅 2026-09-17)
+* [eGemi](https://github.com/nfnitloop/egemi) ⭐ 6 | 🐛 4 | 🌐 Rust | 📅 2025-08-17 (Rust) - Read gemtext and other plaintexts via `gemini://` *and* `https://`. (uses [egui](https://github.com/emilk/egui) ⭐ 30,607 | 🐛 1,128 | 🌐 Rust | 📅 2026-09-18)
 * [spacewar](https://github.com/ResonAtom/spacewar) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2020-08-24 (Electron.js) - EXPERIMENTAL and UNSTABLE Gemini browser running on Electron.
 * [Alrisha](https://git.sr.ht/~fabrixxm/alrisha) (QML) - QML-based Gemini client.
 * [Castor](https://git.sr.ht/~julienxx/castor) (Rust) - graphical Gemini client using GTK.
@@ -150,7 +150,7 @@ Repo mirrors:
 * [gemclient](https://github.com/Koshroy/gemclient) ⭐ 15 | 🐛 0 | 🌐 Nim | 📅 2021-10-30 (Nim) - rich client library for the Gemini Protocol.
 * [SmolNetSharp](https://github.com/LukeEmmet/SmolNetSharp) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2022-07-23 (C#) - cross platform .NET (core/framework) client library for building Gemini and Gopher clients
 * [kaksik](https://github.com/sergetymo/kaksik) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2024-05-19 (Deno/TypeScript) - middleware library for building server applications.
-* [dremini](https://github.com/marty1885/dremini) ⭐ 11 | 🐛 0 | 🌐 C++ | 📅 2026-09-16 (C++) - Highly concurrent C++ Gemini server and client library
+* [dremini](https://github.com/marty1885/dremini) ⭐ 11 | 🐛 0 | 🌐 C++ | 📅 2026-09-18 (C++) - Highly concurrent C++ Gemini server and client library
 * [gemini](https://github.com/kulak/gemini) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2024-10-17 (Go) - Server side Gemini protocol + Titan protocol implementation that matches standard GO http API.
 * [gmir](https://github.com/codesoap/gmir) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2024-11-09 (Go) - A reader for gmi files
 * [warmuuh/jemini](https://github.com/warmuuh/jemini/tree/main/gemini-client) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2021-04-23(Java) - reactive gemini-client, part of jemini-project
@@ -350,8 +350,8 @@ Repo mirrors:
 
 ### Syntax Highlighting
 
-* [gemini.yml](https://github.com/zyedidia/micro/blob/master/runtime/syntax/gemini.yaml) ⭐ 29,599 | 🐛 935 | 🌐 Go | 📅 2026-09-17 - text/gemini syntax highlighting for micro.
-* [language\_gmi](https://github.com/lite-xl/lite-xl-plugins/blob/master/plugins/language_gmi.lua) ⭐ 519 | 🐛 123 | 🌐 Lua | 📅 2026-09-01 - gemtext syntax highlighting for lite-xl
+* [gemini.yml](https://github.com/zyedidia/micro/blob/master/runtime/syntax/gemini.yaml) ⭐ 29,604 | 🐛 935 | 🌐 Go | 📅 2026-09-18 - text/gemini syntax highlighting for micro.
+* [language\_gmi](https://github.com/lite-xl/lite-xl-plugins/blob/master/plugins/language_gmi.lua) ⭐ 518 | 🐛 123 | 🌐 Lua | 📅 2026-09-01 - gemtext syntax highlighting for lite-xl
 * [gemini.kak](https://github.com/kakoune-editor/kakoune-extra-filetypes/blob/master/rc/gemini.kak) ⭐ 30 | 🐛 2 | 🌐 Makefile | 📅 2021-08-06 - text/gemini syntax highlighting for kakoune.
 * [gemini.sublime-syntax](https://github.com/adiabatic/gemini.sublime-syntax) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2025-10-06 - text/gemini syntax highlighting for bat (and maybe Sublime Text).
 * [gemini.nanorc](https://github.com/yzzyx-network/nanorc/blob/master/gemini.nanorc) ⭐ 7 | 🐛 0 | 🌐 Shell | 📅 2020-05-08 - text/gemini syntax highlighting for nano.
@@ -380,4 +380,4 @@ Repo mirrors:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
