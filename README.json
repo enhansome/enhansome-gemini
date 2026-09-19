@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-17T08:08:32Z",
-                "open_issues": 223,
+                "open_issues": 227,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45019,
+                "stars": 45029,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -3172,11 +3172,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-18T00:33:08Z",
+                "last_commit": "2026-09-19T00:34:06Z",
                 "open_issues": 935,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29604,
+                "stars": 29606,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3206,7 +3206,7 @@
                 "open_issues": 123,
                 "owner": "lite-xl",
                 "repo": "lite-xl-plugins",
-                "stars": 518,
+                "stars": 519,
                 "topics": [
                   "lite-xl",
                   "plugins"
@@ -3315,7 +3315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:35:06.651Z",
+    "last_updated": "2026-09-19T17:04:01.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
