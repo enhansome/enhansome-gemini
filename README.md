@@ -9,7 +9,7 @@ Repo mirrors:
 * <https://codeberg.org/kr1sp1n/awesome-gemini>
 * <https://git.sr.ht/~kr1sp1n/awesome-gemini>
 * <https://gitlab.com/kr1sp1n/awesome-gemini>
-* <https://github.com/kr1sp1n/awesome-gemini> ⭐ 1,549 | 🐛 12 | 📅 2026-06-07
+* <https://github.com/kr1sp1n/awesome-gemini> ⭐ 1,550 | 🐛 12 | 📅 2026-06-07
 
 ## What is Gemini
 
@@ -48,12 +48,12 @@ Repo mirrors:
 
 ### Terminal
 
-* [gembro](https://git.sr.ht/~rafael/gembro) (Go) - gemini client using [Bubble Tea](https://github.com/charmbracelet/bubbletea) ⭐ 45,045 | 🐛 230 | 🌐 Go | 📅 2026-09-17.
-* [Amfora](https://github.com/makeworld-the-better-one/amfora) ⭐ 1,358 | 🐛 10 | 🌐 Go | 📅 2026-07-03 (Go) - "fancy" terminal client. In [maintenance mode](https://www.makeworld.space/2023/08/bye_gemini.html).
+* [gembro](https://git.sr.ht/~rafael/gembro) (Go) - gemini client using [Bubble Tea](https://github.com/charmbracelet/bubbletea) ⭐ 45,066 | 🐛 230 | 🌐 Go | 📅 2026-09-17.
+* [Amfora](https://github.com/makeworld-the-better-one/amfora) ⭐ 1,356 | 🐛 10 | 🌐 Go | 📅 2026-07-03 (Go) - "fancy" terminal client. In [maintenance mode](https://www.makeworld.space/2023/08/bye_gemini.html).
 * [ncgopher](https://github.com/jansc/ncgopher) ⭐ 231 | 🐛 10 | 🌐 Rust | 📅 2026-06-11 (Rust) - gopher and gemini client for the modern internet.
 * [gmi100](https://github.com/ir33k/gmi100) ⭐ 84 | 🐛 1 | 🌐 C | 📅 2024-10-29 (C) - CLI Gemini client written in 100 lines of ANSI C.
 * [ereandel](https://github.com/blmayer/ereandel) ⭐ 69 | 🐛 1 | 🌐 Shell | 📅 2026-03-10 (Shell) - terminal client using a custom pager written in POSIX shell script.
-* [gplaces](https://github.com/dimkr/gplaces) ⭐ 50 | 🐛 1 | 🌐 C | 📅 2026-09-05 (C) - command-driven, terminal based Gemini client in \~1K LOC of C.
+* [gplaces](https://github.com/dimkr/gplaces) ⭐ 50 | 🐛 1 | 🌐 C | 📅 2026-09-21 (C) - command-driven, terminal based Gemini client in \~1K LOC of C.
 * [min](https://github.com/a-h/min) ⭐ 44 | 🐛 0 | 🌐 Go | 📅 2021-07-21 (Go) - supports advanced features like input and client certificate generation.
 * [gemini-fetch](https://github.com/RangerMauve/gemini-fetch) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2025-05-06 (Node.js) - cURL-like CLI for loading content from Gemini URLs.
 * [Gremlin](https://github.com/actuday6418/gremlin) ⭐ 21 | 🐛 0 | 🌐 Rust | 📅 2021-12-03 (Rust) - TUI for browsing Gemini space
@@ -97,7 +97,7 @@ Repo mirrors:
 * [Molasses](https://github.com/jjsimpso/molasses) ⭐ 36 | 🐛 2 | 🌐 Racket | 📅 2026-07-05 (Racket) - full-featured graphical Gopher and Gemini client with tabs.
 * [Fossil](https://github.com/koyuspace/fossil) ⚠️ Archived (Vala) - GTK3 Gemini browser written in Vala for desktop and mobile.
 * [Yoda](https://github.com/YGGverse/Yoda) ⭐ 23 | 🐛 8 | 🌐 Rust | 📅 2026-05-12 (Rust) - GTK 4 / Libadwaita client written in Rust.
-* [eGemi](https://github.com/nfnitloop/egemi) ⭐ 6 | 🐛 4 | 🌐 Rust | 📅 2025-08-17 (Rust) - Read gemtext and other plaintexts via `gemini://` *and* `https://`. (uses [egui](https://github.com/emilk/egui) ⭐ 30,637 | 🐛 1,131 | 🌐 Rust | 📅 2026-09-20)
+* [eGemi](https://github.com/nfnitloop/egemi) ⭐ 6 | 🐛 4 | 🌐 Rust | 📅 2025-08-17 (Rust) - Read gemtext and other plaintexts via `gemini://` *and* `https://`. (uses [egui](https://github.com/emilk/egui) ⭐ 30,651 | 🐛 1,126 | 🌐 Rust | 📅 2026-09-21)
 * [spacewar](https://github.com/ResonAtom/spacewar) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2020-08-24 (Electron.js) - EXPERIMENTAL and UNSTABLE Gemini browser running on Electron.
 * [Alrisha](https://git.sr.ht/~fabrixxm/alrisha) (QML) - QML-based Gemini client.
 * [Castor](https://git.sr.ht/~julienxx/castor) (Rust) - graphical Gemini client using GTK.
@@ -150,7 +150,7 @@ Repo mirrors:
 * [gemclient](https://github.com/Koshroy/gemclient) ⭐ 15 | 🐛 0 | 🌐 Nim | 📅 2021-10-30 (Nim) - rich client library for the Gemini Protocol.
 * [SmolNetSharp](https://github.com/LukeEmmet/SmolNetSharp) ⭐ 14 | 🐛 0 | 🌐 C# | 📅 2022-07-23 (C#) - cross platform .NET (core/framework) client library for building Gemini and Gopher clients
 * [kaksik](https://github.com/sergetymo/kaksik) ⭐ 12 | 🐛 3 | 🌐 TypeScript | 📅 2024-05-19 (Deno/TypeScript) - middleware library for building server applications.
-* [dremini](https://github.com/marty1885/dremini) ⭐ 11 | 🐛 0 | 🌐 C++ | 📅 2026-09-20 (C++) - Highly concurrent C++ Gemini server and client library
+* [dremini](https://github.com/marty1885/dremini) ⭐ 11 | 🐛 0 | 🌐 C++ | 📅 2026-09-21 (C++) - Highly concurrent C++ Gemini server and client library
 * [gemini](https://github.com/kulak/gemini) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2024-10-17 (Go) - Server side Gemini protocol + Titan protocol implementation that matches standard GO http API.
 * [gmir](https://github.com/codesoap/gmir) ⭐ 9 | 🐛 0 | 🌐 Go | 📅 2024-11-09 (Go) - A reader for gmi files
 * [warmuuh/jemini](https://github.com/warmuuh/jemini/tree/main/gemini-client) ⭐ 9 | 🐛 0 | 🌐 Java | 📅 2021-04-23(Java) - reactive gemini-client, part of jemini-project
@@ -185,7 +185,7 @@ Repo mirrors:
 ## Servers
 
 * [Agate](https://github.com/mbrubeck/agate) ⭐ 751 | 🐛 7 | 🌐 Rust | 📅 2026-09-17 (Rust) - simple Gemini server for static files.
-* [Jetforce](https://github.com/michael-lazar/jetforce) ⭐ 217 | 🐛 7 | 🌐 Python | 📅 2026-08-25 (Python) - built-in static file server with support for gemini directories and CGI scripts.
+* [Jetforce](https://github.com/michael-lazar/jetforce) ⭐ 218 | 🐛 7 | 🌐 Python | 📅 2026-08-25 (Python) - built-in static file server with support for gemini directories and CGI scripts.
 * [gmid](https://github.com/omar-polo/gmid) ⭐ 120 | 🐛 14 | 🌐 C | 📅 2026-08-01 (C) - simple and secure Gemini server.
 * [a-h/gemini](https://github.com/a-h/gemini) ⭐ 53 | 🐛 2 | 🌐 Go | 📅 2025-04-21 (Go) - Server for Linux, Mac, Raspberry Pi. Supports SNI for multiple domains on the same server, has Docker image.
 * [GLV-1.12556](https://github.com/spc476/GLV-1.12556) ⭐ 45 | 🐛 0 | 🌐 Lua | 📅 2026-01-04 (Lua) - the first Gemini protocol server with a lot of features.
@@ -264,7 +264,7 @@ Repo mirrors:
 
 ## Services
 
-* **gemini://tlgs.one** - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs) ⭐ 40 | 🐛 2 | 🌐 C++ | 📅 2026-09-20).
+* **gemini://tlgs.one** - ([http version](https://tlgs.one)) Another public search provider for Gemini([repo](https://github.com/marty1885/tlgs) ⭐ 40 | 🐛 2 | 🌐 C++ | 📅 2026-09-21).
 * **gemini://kevachat.duckdns.org** - KevaChat clearnet node for Gemini ([repo](https://github.com/kevachat/geminiapp) ⭐ 2 | 🐛 0 | 🌐 PHP | 📅 2024-03-07).
 * **gemini://betahowto.duckdns.org** - Yggdrasil DokuWiki Satellite ([repo](https://github.com/YGGverse/bdoku) ⭐ 1 | 🐛 0 | 🌐 PHP | 📅 2024-03-07)
 * **gemini://flounder.online** ([https version](https://flounder.online/)) - host small Gemini web pages over https and Gemini ([repo](https://github.com/alexwennerberg/flounder) ⭐ 0 | 🐛 0 | 🌐 Go | 📅 2026-08-27).
@@ -350,7 +350,7 @@ Repo mirrors:
 
 ### Syntax Highlighting
 
-* [gemini.yml](https://github.com/zyedidia/micro/blob/master/runtime/syntax/gemini.yaml) ⭐ 29,610 | 🐛 911 | 🌐 Go | 📅 2026-09-20 - text/gemini syntax highlighting for micro.
+* [gemini.yml](https://github.com/zyedidia/micro/blob/master/runtime/syntax/gemini.yaml) ⭐ 29,613 | 🐛 913 | 🌐 Go | 📅 2026-09-21 - text/gemini syntax highlighting for micro.
 * [language\_gmi](https://github.com/lite-xl/lite-xl-plugins/blob/master/plugins/language_gmi.lua) ⭐ 520 | 🐛 123 | 🌐 Lua | 📅 2026-09-01 - gemtext syntax highlighting for lite-xl
 * [gemini.kak](https://github.com/kakoune-editor/kakoune-extra-filetypes/blob/master/rc/gemini.kak) ⭐ 30 | 🐛 2 | 🌐 Makefile | 📅 2021-08-06 - text/gemini syntax highlighting for kakoune.
 * [gemini.sublime-syntax](https://github.com/adiabatic/gemini.sublime-syntax) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2025-10-06 - text/gemini syntax highlighting for bat (and maybe Sublime Text).
@@ -380,4 +380,4 @@ Repo mirrors:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
