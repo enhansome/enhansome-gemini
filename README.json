@@ -17,11 +17,11 @@
                 "id": 233130089,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-22T11:00:49Z",
-                "open_issues": 231,
+                "last_commit": "2026-09-24T08:07:53Z",
+                "open_issues": 230,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45097,
+                "stars": 45111,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -139,7 +139,7 @@
                 "open_issues": 1,
                 "owner": "blmayer",
                 "repo": "ereandel",
-                "stars": 69,
+                "stars": 68,
                 "topics": [
                   "browser",
                   "gemini",
@@ -421,7 +421,7 @@
                     "open_issues": 1,
                     "owner": "mochaman",
                     "repo": "alhena",
-                    "stars": 59,
+                    "stars": 58,
                     "topics": [
                       "alhena",
                       "gemini",
@@ -1175,6 +1175,37 @@
         },
         {
           "node_type": "item",
+          "title": "titanite",
+          "description": "(Rust) - Client/Server library for Gemini protocol with Titan support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Client/Server Library for Gemini protocol with Titan support",
+            "homepage": "https://crates.io/crates/titanite",
+            "id": 936146661,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2025-02-24T04:16:15Z",
+            "open_issues": 0,
+            "owner": "YGGverse",
+            "repo": "titanite",
+            "stars": 1,
+            "topics": [
+              "client",
+              "crate",
+              "gemini",
+              "gemini-protocol",
+              "server",
+              "socket",
+              "titan",
+              "titan-protocol",
+              "tls"
+            ]
+          },
+          "first_seen": "2026-08-28T23:28:25.429Z"
+        },
+        {
+          "node_type": "item",
           "title": "gemini-php",
           "description": "(PHP) - Composer library that includes TLS / socket client, Gemtext parser and DokuWiki tools.",
           "children": [],
@@ -1235,37 +1266,6 @@
         },
         {
           "node_type": "item",
-          "title": "titanite",
-          "description": "(Rust) - Client/Server library for Gemini protocol with Titan support",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Client/Server Library for Gemini protocol with Titan support",
-            "homepage": "https://crates.io/crates/titanite",
-            "id": 936146661,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2025-02-24T04:16:15Z",
-            "open_issues": 0,
-            "owner": "YGGverse",
-            "repo": "titanite",
-            "stars": 0,
-            "topics": [
-              "client",
-              "crate",
-              "gemini",
-              "gemini-protocol",
-              "server",
-              "socket",
-              "titan",
-              "titan-protocol",
-              "tls"
-            ]
-          },
-          "first_seen": "2026-08-28T23:28:25.429Z"
-        },
-        {
-          "node_type": "item",
           "title": "gemtext-php",
           "description": "(PHP) - object-oriented library for Gemtext operations",
           "children": [],
@@ -1318,7 +1318,7 @@
             "open_issues": 7,
             "owner": "mbrubeck",
             "repo": "agate",
-            "stars": 751,
+            "stars": 750,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -1620,6 +1620,31 @@
         },
         {
           "node_type": "item",
+          "title": "Windmark",
+          "description": "(Rust) - An elegant and highly performant async Gemini server framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🏗️ Elegant & Highly Performant Async Gemini Server Framework for the Modern Age",
+            "homepage": "https://docs.rs/windmark",
+            "id": 474556213,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-13T08:02:00Z",
+            "open_issues": 0,
+            "owner": "gemrest",
+            "repo": "windmark",
+            "stars": 16,
+            "topics": [
+              "framework",
+              "gemini",
+              "gemini-server"
+            ]
+          },
+          "first_seen": "2026-08-28T23:28:25.429Z"
+        },
+        {
+          "node_type": "item",
           "title": "Bunkum",
           "description": "(C#) - Open source .NET Gemini/Titan/Gopher/HTTP(S) request server.",
           "children": [],
@@ -1646,31 +1671,6 @@
               "http",
               "http-server",
               "protocol-agnostic"
-            ]
-          },
-          "first_seen": "2026-08-28T23:28:25.429Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Windmark",
-          "description": "(Rust) - An elegant and highly performant async Gemini server framework",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🏗️ Elegant & Highly Performant Async Gemini Server Framework for the Modern Age",
-            "homepage": "https://docs.rs/windmark",
-            "id": 474556213,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-13T08:02:00Z",
-            "open_issues": 0,
-            "owner": "gemrest",
-            "repo": "windmark",
-            "stars": 15,
-            "topics": [
-              "framework",
-              "gemini",
-              "gemini-server"
             ]
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -2436,7 +2436,7 @@
             "open_issues": 2,
             "owner": "marty1885",
             "repo": "tlgs",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "drogon",
               "gemini",
@@ -3172,11 +3172,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-23T00:33:12Z",
-                "open_issues": 914,
+                "last_commit": "2026-09-24T00:34:26Z",
+                "open_issues": 915,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29628,
+                "stars": 29635,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3315,7 +3315,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T18:18:38.285Z",
+    "last_updated": "2026-09-24T18:19:46.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3327,7 +3327,7 @@
       "open_issues": 13,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1553,
+      "stars": 1554,
       "topics": [
         "awesome",
         "awesome-list",
