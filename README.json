@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-24T08:07:53Z",
-                "open_issues": 230,
+                "open_issues": 231,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45111,
+                "stars": 45123,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -48,10 +48,10 @@
                 "language": "Go",
                 "license": "GPL-3.0",
                 "last_commit": "2026-07-03T14:50:21Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "makew0rld",
                 "repo": "amfora",
-                "stars": 1357,
+                "stars": 1358,
                 "topics": [
                   "browser",
                   "gemini",
@@ -260,7 +260,7 @@
                 "open_issues": 3,
                 "owner": "LukeEmmet",
                 "repo": "Romulus",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:28:25.429Z"
@@ -332,7 +332,7 @@
                     "open_issues": 103,
                     "owner": "AgregoreWeb",
                     "repo": "agregore-browser",
-                    "stars": 922,
+                    "stars": 923,
                     "topics": [
                       "browser",
                       "decentralization",
@@ -361,7 +361,7 @@
                     "open_issues": 43,
                     "owner": "ikskuh",
                     "repo": "kristall",
-                    "stars": 797,
+                    "stars": 798,
                     "topics": [
                       "browser",
                       "finger",
@@ -421,7 +421,7 @@
                     "open_issues": 1,
                     "owner": "mochaman",
                     "repo": "alhena",
-                    "stars": 58,
+                    "stars": 59,
                     "topics": [
                       "alhena",
                       "gemini",
@@ -610,7 +610,7 @@
                     "open_issues": 25,
                     "owner": "Corewala",
                     "repo": "Buran",
-                    "stars": 134,
+                    "stars": 135,
                     "topics": [
                       "android",
                       "ariane",
@@ -1318,7 +1318,7 @@
             "open_issues": 7,
             "owner": "mbrubeck",
             "repo": "agate",
-            "stars": 750,
+            "stars": 751,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -2274,6 +2274,27 @@
         },
         {
           "node_type": "item",
+          "title": "Wallawood",
+          "description": "(Java) - An ergonomic and feature rich dual protocol server with a Gemini-first interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1234195278,
+            "language": "Java",
+            "license": "NOASSERTION",
+            "last_commit": "2026-06-14T16:02:51Z",
+            "open_issues": 0,
+            "owner": "wallawood",
+            "repo": "wallawood",
+            "stars": 1,
+            "topics": []
+          },
+          "first_seen": "2026-09-25T18:19:49.599Z"
+        },
+        {
+          "node_type": "item",
           "title": "β-Doku",
           "description": "(PHP) - DokuWiki Satellite for Gemini Protocol",
           "children": [],
@@ -3172,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-24T00:34:26Z",
-                "open_issues": 915,
+                "last_commit": "2026-09-25T00:35:29Z",
+                "open_issues": 914,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29635,
+                "stars": 29640,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3206,7 +3227,7 @@
                 "open_issues": 123,
                 "owner": "lite-xl",
                 "repo": "lite-xl-plugins",
-                "stars": 520,
+                "stars": 521,
                 "topics": [
                   "lite-xl",
                   "plugins"
@@ -3315,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:19:46.929Z",
+    "last_updated": "2026-09-25T18:19:49.599Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3323,11 +3344,11 @@
       "id": 289205582,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-06-07T16:11:47Z",
-      "open_issues": 13,
+      "last_commit": "2026-09-25T06:22:29Z",
+      "open_issues": 11,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1554,
+      "stars": 1556,
       "topics": [
         "awesome",
         "awesome-list",
@@ -3336,7 +3357,7 @@
         "gemini-protocol"
       ]
     },
-    "original_repository_sha": "7b61c55909ed9841a58cb64be5a4b6ee7179b860",
+    "original_repository_sha": "5803b7edcc2fe5feb250033951ab3abca3758ff0",
     "enhanced_repository": "enhansome/enhansome-gemini",
     "enhanced_repository_description": null,
     "title": "Awesome Gemini with stars"
