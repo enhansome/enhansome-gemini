@@ -17,11 +17,11 @@
                 "id": 233130089,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-24T08:07:53Z",
+                "last_commit": "2026-09-28T12:22:07Z",
                 "open_issues": 231,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45147,
+                "stars": 45165,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -1092,33 +1092,6 @@
         },
         {
           "node_type": "item",
-          "title": "cuipod",
-          "description": "(C#) - Simple yet flexible framework for Gemini protocol server.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simple yet flexible framework for Gemini protocol server",
-            "homepage": null,
-            "id": 336571725,
-            "language": "C#",
-            "license": "MIT",
-            "last_commit": "2021-12-15T17:47:34Z",
-            "open_issues": 0,
-            "owner": "aegis-dev",
-            "repo": "cuipod",
-            "stars": 5,
-            "topics": [
-              "framework",
-              "gemini",
-              "gemini-protocol",
-              "gemini-protocol-server",
-              "server"
-            ]
-          },
-          "first_seen": "2026-08-28T23:28:25.429Z"
-        },
-        {
-          "node_type": "item",
           "title": "phos",
           "description": "(Common Lisp) - Gemini client library and experimental GUI",
           "children": [],
@@ -1137,6 +1110,33 @@
             "topics": [
               "common-lisp",
               "gemini"
+            ]
+          },
+          "first_seen": "2026-08-28T23:28:25.429Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cuipod",
+          "description": "(C#) - Simple yet flexible framework for Gemini protocol server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple yet flexible framework for Gemini protocol server",
+            "homepage": null,
+            "id": 336571725,
+            "language": "C#",
+            "license": "MIT",
+            "last_commit": "2021-12-15T17:47:34Z",
+            "open_issues": 0,
+            "owner": "aegis-dev",
+            "repo": "cuipod",
+            "stars": 4,
+            "topics": [
+              "framework",
+              "gemini",
+              "gemini-protocol",
+              "gemini-protocol-server",
+              "server"
             ]
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -1318,7 +1318,7 @@
             "open_issues": 7,
             "owner": "mbrubeck",
             "repo": "agate",
-            "stars": 751,
+            "stars": 752,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-27T00:39:40Z",
-                "open_issues": 916,
+                "last_commit": "2026-09-28T00:39:20Z",
+                "open_issues": 917,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29643,
+                "stars": 29648,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:07:38.311Z",
+    "last_updated": "2026-09-28T20:25:37.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 11,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1559,
+      "stars": 1558,
       "topics": [
         "awesome",
         "awesome-list",
