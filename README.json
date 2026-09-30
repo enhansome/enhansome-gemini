@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-28T12:22:07Z",
-                "open_issues": 233,
+                "open_issues": 232,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45186,
+                "stars": 45204,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -77,7 +77,7 @@
                 "language": "Rust",
                 "license": "NOASSERTION",
                 "last_commit": "2026-06-11T04:03:19Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "jansc",
                 "repo": "ncgopher",
                 "stars": 231,
@@ -421,7 +421,7 @@
                     "open_issues": 1,
                     "owner": "mochaman",
                     "repo": "alhena",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": [
                       "alhena",
                       "gemini",
@@ -498,7 +498,7 @@
                     "open_issues": 8,
                     "owner": "YGGverse",
                     "repo": "Yoda",
-                    "stars": 23,
+                    "stars": 24,
                     "topics": [
                       "1900",
                       "1965",
@@ -2457,7 +2457,7 @@
             "open_issues": 2,
             "owner": "marty1885",
             "repo": "tlgs",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "drogon",
               "gemini",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-29T16:55:37Z",
-                "open_issues": 918,
+                "last_commit": "2026-09-30T00:38:08Z",
+                "open_issues": 919,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29652,
+                "stars": 29658,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:12:07.167Z",
+    "last_updated": "2026-09-30T18:54:54.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
