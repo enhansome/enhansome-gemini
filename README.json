@@ -21,7 +21,7 @@
                 "open_issues": 238,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45253,
+                "stars": 45260,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -638,7 +638,7 @@
                     "open_issues": 21,
                     "owner": "pitr",
                     "repo": "gemini-ios",
-                    "stars": 129,
+                    "stars": 128,
                     "topics": [
                       "gemini",
                       "swift",
@@ -3197,7 +3197,7 @@
                 "open_issues": 919,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29661,
+                "stars": 29664,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:50:43.421Z",
+    "last_updated": "2026-10-03T17:50:21.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
