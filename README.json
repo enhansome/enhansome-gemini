@@ -21,7 +21,7 @@
                 "open_issues": 238,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45245,
+                "stars": 45253,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -332,7 +332,7 @@
                     "open_issues": 103,
                     "owner": "AgregoreWeb",
                     "repo": "agregore-browser",
-                    "stars": 924,
+                    "stars": 923,
                     "topics": [
                       "browser",
                       "decentralization",
@@ -2471,7 +2471,7 @@
         {
           "node_type": "item",
           "title": "gemini://kevachat.duckdns.org - KevaChat clearnet node for Gemini (repo",
-          "description": ").",
+          "description": "kevachat/geminiapp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2526,7 +2526,7 @@
         {
           "node_type": "item",
           "title": "gemini://betahowto.duckdns.org - Yggdrasil DokuWiki Satellite (repo",
-          "description": ")",
+          "description": "YGGverse/bdoku",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2562,7 +2562,7 @@
         {
           "node_type": "item",
           "title": "gemini://kvazar.duckdns.org - Observe Kevacoin Universe (repo",
-          "description": ")",
+          "description": "kvazar-network/geminiapp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T00:37:28Z",
+                "last_commit": "2026-10-03T00:34:55Z",
                 "open_issues": 919,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29662,
+                "stars": 29661,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:03:06.397Z",
+    "last_updated": "2026-10-03T04:50:43.421Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 13,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1559,
+      "stars": 1560,
       "topics": [
         "awesome",
         "awesome-list",
