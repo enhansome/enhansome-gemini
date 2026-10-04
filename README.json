@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-02T11:07:33Z",
-                "open_issues": 238,
+                "open_issues": 240,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45260,
+                "stars": 45272,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -332,7 +332,7 @@
                     "open_issues": 103,
                     "owner": "AgregoreWeb",
                     "repo": "agregore-browser",
-                    "stars": 923,
+                    "stars": 924,
                     "topics": [
                       "browser",
                       "decentralization",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:34:55Z",
+                "last_commit": "2026-10-04T01:14:46Z",
                 "open_issues": 919,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29664,
+                "stars": 29666,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T17:50:21.260Z",
+    "last_updated": "2026-10-04T18:02:16.817Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
