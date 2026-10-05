@@ -21,7 +21,7 @@
                 "open_issues": 240,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45272,
+                "stars": 45288,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -51,7 +51,7 @@
                 "open_issues": 11,
                 "owner": "makew0rld",
                 "repo": "amfora",
-                "stars": 1357,
+                "stars": 1358,
                 "topics": [
                   "browser",
                   "gemini",
@@ -937,6 +937,34 @@
         },
         {
           "node_type": "item",
+          "title": "gmir",
+          "description": "(Go) - A reader for gmi files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A reader for gmi files (of the Gemini protocol)",
+            "homepage": null,
+            "id": 600691884,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2024-11-09T19:46:06Z",
+            "open_issues": 0,
+            "owner": "codesoap",
+            "repo": "gmir",
+            "stars": 10,
+            "topics": [
+              "gemini",
+              "gemini-protocol",
+              "gemtext",
+              "gmi",
+              "pager",
+              "reader"
+            ]
+          },
+          "first_seen": "2026-08-28T23:28:25.429Z"
+        },
+        {
+          "node_type": "item",
           "title": "gemini",
           "description": "(Go) - Server side Gemini protocol + Titan protocol implementation that matches standard GO http API.",
           "children": [],
@@ -953,34 +981,6 @@
             "repo": "gemini",
             "stars": 9,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:28:25.429Z"
-        },
-        {
-          "node_type": "item",
-          "title": "gmir",
-          "description": "(Go) - A reader for gmi files",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A reader for gmi files (of the Gemini protocol)",
-            "homepage": null,
-            "id": 600691884,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2024-11-09T19:46:06Z",
-            "open_issues": 0,
-            "owner": "codesoap",
-            "repo": "gmir",
-            "stars": 9,
-            "topics": [
-              "gemini",
-              "gemini-protocol",
-              "gemtext",
-              "gmi",
-              "pager",
-              "reader"
-            ]
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
         },
@@ -1318,7 +1318,7 @@
             "open_issues": 7,
             "owner": "mbrubeck",
             "repo": "agate",
-            "stars": 753,
+            "stars": 754,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -1607,7 +1607,7 @@
             "open_issues": 0,
             "owner": "n0x1m",
             "repo": "gmifs",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "gemini",
               "gemini-protocol",
@@ -1677,6 +1677,30 @@
         },
         {
           "node_type": "item",
+          "title": "Hydepark",
+          "description": "(Rust) - discussion forum application for Gemini.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Forum application for Gemini space",
+            "homepage": null,
+            "id": 338300032,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2021-03-13T09:42:54Z",
+            "open_issues": 0,
+            "owner": "mispecto",
+            "repo": "hydepark",
+            "stars": 14,
+            "topics": [
+              "gemini",
+              "gemini-protocol"
+            ]
+          },
+          "first_seen": "2026-08-28T23:28:25.429Z"
+        },
+        {
+          "node_type": "item",
           "title": "atlas",
           "description": "(C#) - .NET7 Gemini/Titan/Spartan server w/ vhost and cgi support.",
           "children": [],
@@ -1704,30 +1728,6 @@
               "titan-protocol",
               "titan-server",
               "vhost"
-            ]
-          },
-          "first_seen": "2026-08-28T23:28:25.429Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Hydepark",
-          "description": "(Rust) - discussion forum application for Gemini.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Forum application for Gemini space",
-            "homepage": null,
-            "id": 338300032,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2021-03-13T09:42:54Z",
-            "open_issues": 0,
-            "owner": "mispecto",
-            "repo": "hydepark",
-            "stars": 13,
-            "topics": [
-              "gemini",
-              "gemini-protocol"
             ]
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -2783,7 +2783,7 @@
             "open_issues": 0,
             "owner": "mkamarin",
             "repo": "Gopher-and-Gemini-Walker",
-            "stars": 6,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-04T01:14:46Z",
-                "open_issues": 919,
+                "last_commit": "2026-10-05T00:38:50Z",
+                "open_issues": 920,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29666,
+                "stars": 29668,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:02:16.817Z",
+    "last_updated": "2026-10-05T21:25:25.329Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 13,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1560,
+      "stars": 1561,
       "topics": [
         "awesome",
         "awesome-list",
