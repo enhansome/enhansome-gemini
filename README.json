@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-02T11:07:33Z",
-                "open_issues": 240,
+                "open_issues": 238,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45305,
+                "stars": 45322,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -494,7 +494,7 @@
                     "id": 784071632,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-05-12T07:40:50Z",
+                    "last_commit": "2026-10-07T16:19:35Z",
                     "open_issues": 8,
                     "owner": "YGGverse",
                     "repo": "Yoda",
@@ -1314,8 +1314,8 @@
             "id": 264589205,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T20:45:10Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-07T10:12:33Z",
+            "open_issues": 8,
             "owner": "mbrubeck",
             "repo": "agate",
             "stars": 753,
@@ -2504,27 +2504,6 @@
         },
         {
           "node_type": "item",
-          "title": "gemini://flounder.online (https version",
-          "description": ") - host small Gemini web pages over https and Gemini (repo).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": null,
-            "homepage": null,
-            "id": 1348950591,
-            "language": "Go",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-08-27T21:22:01Z",
-            "open_issues": 0,
-            "owner": "alexwennerberg",
-            "repo": "flounder",
-            "stars": 1,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:28:25.429Z"
-        },
-        {
-          "node_type": "item",
           "title": "gemini://betahowto.duckdns.org - Yggdrasil DokuWiki Satellite (repo",
           "description": "YGGverse/bdoku",
           "children": [],
@@ -2556,6 +2535,27 @@
               "manticore",
               "wiki"
             ]
+          },
+          "first_seen": "2026-08-28T23:28:25.429Z"
+        },
+        {
+          "node_type": "item",
+          "title": "gemini://flounder.online (https version",
+          "description": ") - host small Gemini web pages over https and Gemini (repo).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1348950591,
+            "language": "Go",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-27T21:22:01Z",
+            "open_issues": 0,
+            "owner": "alexwennerberg",
+            "repo": "flounder",
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
         },
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-06T00:36:18Z",
-                "open_issues": 920,
+                "last_commit": "2026-10-07T17:36:59Z",
+                "open_issues": 919,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29669,
+                "stars": 29673,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T19:20:44.601Z",
+    "last_updated": "2026-10-07T19:47:59.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 13,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1561,
+      "stars": 1562,
       "topics": [
         "awesome",
         "awesome-list",
