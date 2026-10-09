@@ -17,11 +17,11 @@
                 "id": 233130089,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-08T17:39:36Z",
-                "open_issues": 232,
+                "last_commit": "2026-10-08T20:50:41Z",
+                "open_issues": 234,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45345,
+                "stars": 45377,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -494,7 +494,7 @@
                     "id": 784071632,
                     "language": "Rust",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T21:20:02Z",
+                    "last_commit": "2026-10-08T19:57:54Z",
                     "open_issues": 8,
                     "owner": "YGGverse",
                     "repo": "Yoda",
@@ -2715,7 +2715,7 @@
             "open_issues": 1,
             "owner": "zzo38",
             "repo": "scorpion",
-            "stars": 24,
+            "stars": 25,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-08T00:37:27Z",
-                "open_issues": 918,
+                "last_commit": "2026-10-09T00:38:07Z",
+                "open_issues": 919,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29678,
+                "stars": 29684,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:43:08.423Z",
+    "last_updated": "2026-10-09T19:20:10.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
