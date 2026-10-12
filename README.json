@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-08T20:50:41Z",
-                "open_issues": 247,
+                "open_issues": 248,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45435,
+                "stars": 45447,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -498,7 +498,7 @@
                     "open_issues": 8,
                     "owner": "YGGverse",
                     "repo": "Yoda",
-                    "stars": 24,
+                    "stars": 25,
                     "topics": [
                       "1900",
                       "1965",
@@ -1318,7 +1318,7 @@
             "open_issues": 7,
             "owner": "mbrubeck",
             "repo": "agate",
-            "stars": 754,
+            "stars": 753,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -2193,7 +2193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "🍁 A very simple static Gemini server, now with Titan support!",
+            "description": "🍁 A small static Gemini server with optional Titan uploads",
             "homepage": null,
             "id": 477631507,
             "language": "Python",
@@ -2457,7 +2457,7 @@
             "open_issues": 2,
             "owner": "marty1885",
             "repo": "tlgs",
-            "stars": 42,
+            "stars": 41,
             "topics": [
               "drogon",
               "gemini",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-11T00:41:38Z",
-                "open_issues": 919,
+                "last_commit": "2026-10-12T00:42:42Z",
+                "open_issues": 915,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29697,
+                "stars": 29704,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3223,11 +3223,11 @@
                 "id": 439706503,
                 "language": "Lua",
                 "license": "MIT",
-                "last_commit": "2026-10-08T18:30:54Z",
-                "open_issues": 125,
+                "last_commit": "2026-10-12T18:09:15Z",
+                "open_issues": 124,
                 "owner": "lite-xl",
                 "repo": "lite-xl-plugins",
-                "stars": 520,
+                "stars": 521,
                 "topics": [
                   "lite-xl",
                   "plugins"
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:41:45.221Z",
+    "last_updated": "2026-10-12T22:00:23.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 13,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1561,
+      "stars": 1562,
       "topics": [
         "awesome",
         "awesome-list",
