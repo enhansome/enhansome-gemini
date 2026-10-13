@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-08T20:50:41Z",
-                "open_issues": 248,
+                "open_issues": 250,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45447,
+                "stars": 45456,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -80,7 +80,7 @@
                 "open_issues": 11,
                 "owner": "jansc",
                 "repo": "ncgopher",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "cli",
                   "gemini",
@@ -139,7 +139,7 @@
                 "open_issues": 1,
                 "owner": "blmayer",
                 "repo": "ereandel",
-                "stars": 68,
+                "stars": 69,
                 "topics": [
                   "browser",
                   "gemini",
@@ -332,7 +332,7 @@
                     "open_issues": 103,
                     "owner": "AgregoreWeb",
                     "repo": "agregore-browser",
-                    "stars": 925,
+                    "stars": 924,
                     "topics": [
                       "browser",
                       "decentralization",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-12T00:42:42Z",
-                "open_issues": 915,
+                "last_commit": "2026-10-13T00:40:01Z",
+                "open_issues": 913,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29704,
+                "stars": 29709,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3224,10 +3224,10 @@
                 "language": "Lua",
                 "license": "MIT",
                 "last_commit": "2026-10-12T18:09:15Z",
-                "open_issues": 124,
+                "open_issues": 125,
                 "owner": "lite-xl",
                 "repo": "lite-xl-plugins",
-                "stars": 521,
+                "stars": 522,
                 "topics": [
                   "lite-xl",
                   "plugins"
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T22:00:23.874Z",
+    "last_updated": "2026-10-13T20:07:39.422Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
