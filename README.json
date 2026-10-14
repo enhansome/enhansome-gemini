@@ -21,7 +21,7 @@
                 "open_issues": 250,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45456,
+                "stars": 45417,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -417,7 +417,7 @@
                     "id": 929210843,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-11T14:29:01Z",
+                    "last_commit": "2026-10-14T14:42:46Z",
                     "open_issues": 1,
                     "owner": "mochaman",
                     "repo": "alhena",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-13T00:40:01Z",
+                "last_commit": "2026-10-14T00:31:58Z",
                 "open_issues": 913,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29709,
+                "stars": 29704,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3227,7 +3227,7 @@
                 "open_issues": 125,
                 "owner": "lite-xl",
                 "repo": "lite-xl-plugins",
-                "stars": 522,
+                "stars": 523,
                 "topics": [
                   "lite-xl",
                   "plugins"
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:07:39.422Z",
+    "last_updated": "2026-10-14T18:23:34.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3345,7 +3345,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-25T06:22:29Z",
-      "open_issues": 13,
+      "open_issues": 14,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
       "stars": 1562,
