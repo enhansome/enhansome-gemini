@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-08T20:50:41Z",
-                "open_issues": 261,
+                "open_issues": 265,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45424,
+                "stars": 45437,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -51,7 +51,7 @@
                 "open_issues": 12,
                 "owner": "makew0rld",
                 "repo": "amfora",
-                "stars": 1359,
+                "stars": 1360,
                 "topics": [
                   "browser",
                   "gemini",
@@ -139,7 +139,7 @@
                 "open_issues": 1,
                 "owner": "blmayer",
                 "repo": "ereandel",
-                "stars": 69,
+                "stars": 70,
                 "topics": [
                   "browser",
                   "gemini",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-15T00:32:34Z",
-                "open_issues": 913,
+                "last_commit": "2026-10-16T00:32:13Z",
+                "open_issues": 915,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29708,
+                "stars": 29713,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T18:05:57.160Z",
+    "last_updated": "2026-10-16T17:51:44.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 14,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1563,
+      "stars": 1565,
       "topics": [
         "awesome",
         "awesome-list",
