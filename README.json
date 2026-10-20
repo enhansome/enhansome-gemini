@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-08T20:50:41Z",
-                "open_issues": 267,
+                "open_issues": 269,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45461,
+                "stars": 45469,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -421,7 +421,7 @@
                     "open_issues": 1,
                     "owner": "mochaman",
                     "repo": "alhena",
-                    "stars": 61,
+                    "stars": 62,
                     "topics": [
                       "alhena",
                       "gemini",
@@ -635,7 +635,7 @@
                     "language": "Swift",
                     "license": "MPL-2.0",
                     "last_commit": "2023-11-26T10:35:23Z",
-                    "open_issues": 21,
+                    "open_issues": 22,
                     "owner": "pitr",
                     "repo": "gemini-ios",
                     "stars": 128,
@@ -1314,11 +1314,11 @@
             "id": 264589205,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-19T10:16:18Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-20T18:12:48Z",
+            "open_issues": 6,
             "owner": "mbrubeck",
             "repo": "agate",
-            "stars": 752,
+            "stars": 753,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -2453,7 +2453,7 @@
             "id": 427417287,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-19T06:50:40Z",
+            "last_commit": "2026-10-20T17:36:50Z",
             "open_issues": 2,
             "owner": "marty1885",
             "repo": "tlgs",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-19T00:35:48Z",
-                "open_issues": 919,
+                "last_commit": "2026-10-20T00:33:31Z",
+                "open_issues": 921,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29729,
+                "stars": 29735,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3227,7 +3227,7 @@
                 "open_issues": 125,
                 "owner": "lite-xl",
                 "repo": "lite-xl-plugins",
-                "stars": 525,
+                "stars": 526,
                 "topics": [
                   "lite-xl",
                   "plugins"
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T19:42:42.903Z",
+    "last_updated": "2026-10-20T18:23:48.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
