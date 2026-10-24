@@ -21,7 +21,7 @@
                 "open_issues": 273,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45485,
+                "stars": 45494,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -161,7 +161,7 @@
                 "id": 479405442,
                 "language": "C",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T18:44:12Z",
+                "last_commit": "2026-10-24T14:27:06Z",
                 "open_issues": 1,
                 "owner": "dimkr",
                 "repo": "gplaces",
@@ -1715,7 +1715,7 @@
             "open_issues": 1,
             "owner": "Alumniminium",
             "repo": "atlas",
-            "stars": 13,
+            "stars": 12,
             "topics": [
               "cgi",
               "gemini",
@@ -2453,7 +2453,7 @@
             "id": 427417287,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-23T18:07:12Z",
+            "last_commit": "2026-10-24T05:26:54Z",
             "open_issues": 2,
             "owner": "marty1885",
             "repo": "tlgs",
@@ -2550,7 +2550,7 @@
             "id": 1348950591,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-15T17:04:14Z",
+            "last_commit": "2026-10-24T15:45:44Z",
             "open_issues": 0,
             "owner": "alexwennerberg",
             "repo": "flounder",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-23T00:34:19Z",
+                "last_commit": "2026-10-24T00:32:48Z",
                 "open_issues": 928,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29749,
+                "stars": 29753,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T18:10:55.133Z",
+    "last_updated": "2026-10-24T17:15:40.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
