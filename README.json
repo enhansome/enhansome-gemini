@@ -21,7 +21,7 @@
                 "open_issues": 274,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45543,
+                "stars": 45552,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -332,7 +332,7 @@
                     "open_issues": 104,
                     "owner": "AgregoreWeb",
                     "repo": "agregore-browser",
-                    "stars": 925,
+                    "stars": 926,
                     "topics": [
                       "browser",
                       "decentralization",
@@ -417,7 +417,7 @@
                     "id": 929210843,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-27T20:02:04Z",
+                    "last_commit": "2026-10-29T13:15:47Z",
                     "open_issues": 1,
                     "owner": "mochaman",
                     "repo": "alhena",
@@ -2108,6 +2108,31 @@
         },
         {
           "node_type": "item",
+          "title": "Maple",
+          "description": "(C++) - A very simple static Gemini server, now with Titan support!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🍁 A small static Gemini server with optional Titan uploads",
+            "homepage": null,
+            "id": 477631507,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-26T12:59:48Z",
+            "open_issues": 0,
+            "owner": "gemrest",
+            "repo": "maple",
+            "stars": 3,
+            "topics": [
+              "gemini",
+              "gemini-server",
+              "titan"
+            ]
+          },
+          "first_seen": "2026-08-28T23:28:25.429Z"
+        },
+        {
+          "node_type": "item",
           "title": "kepler",
           "description": "simple gemini server in rust",
           "children": [],
@@ -2183,31 +2208,6 @@
             "repo": "EarlServer",
             "stars": 2,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:28:25.429Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Maple",
-          "description": "(C++) - A very simple static Gemini server, now with Titan support!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🍁 A small static Gemini server with optional Titan uploads",
-            "homepage": null,
-            "id": 477631507,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-26T12:59:48Z",
-            "open_issues": 0,
-            "owner": "gemrest",
-            "repo": "maple",
-            "stars": 2,
-            "topics": [
-              "gemini",
-              "gemini-server",
-              "titan"
-            ]
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
         },
@@ -2453,7 +2453,7 @@
             "id": 427417287,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-24T05:26:54Z",
+            "last_commit": "2026-10-29T12:20:54Z",
             "open_issues": 2,
             "owner": "marty1885",
             "repo": "tlgs",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-28T00:25:33Z",
-                "open_issues": 927,
+                "last_commit": "2026-10-29T00:25:33Z",
+                "open_issues": 919,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29778,
+                "stars": 29786,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:23:09.965Z",
+    "last_updated": "2026-10-29T19:27:14.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 14,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1566,
+      "stars": 1567,
       "topics": [
         "awesome",
         "awesome-list",
