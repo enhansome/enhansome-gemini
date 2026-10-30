@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-10-28T10:18:30Z",
-                "open_issues": 274,
+                "open_issues": 275,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45552,
+                "stars": 45561,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -1339,7 +1339,7 @@
             "open_issues": 7,
             "owner": "michael-lazar",
             "repo": "jetforce",
-            "stars": 219,
+            "stars": 220,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -2034,6 +2034,31 @@
         },
         {
           "node_type": "item",
+          "title": "Maple",
+          "description": "(C++) - A very simple static Gemini server, now with Titan support!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🍁 A small static Gemini server with optional Titan uploads",
+            "homepage": null,
+            "id": 477631507,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-26T12:59:48Z",
+            "open_issues": 0,
+            "owner": "gemrest",
+            "repo": "maple",
+            "stars": 4,
+            "topics": [
+              "gemini",
+              "gemini-server",
+              "titan"
+            ]
+          },
+          "first_seen": "2026-08-28T23:28:25.429Z"
+        },
+        {
+          "node_type": "item",
           "title": "Yo!",
           "description": "(PHP) - Search server and crawler with history snap support, based on Manticore",
           "children": [],
@@ -2102,31 +2127,6 @@
               "raspberry-pi",
               "raspberrypi",
               "tls13"
-            ]
-          },
-          "first_seen": "2026-08-28T23:28:25.429Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Maple",
-          "description": "(C++) - A very simple static Gemini server, now with Titan support!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "🍁 A small static Gemini server with optional Titan uploads",
-            "homepage": null,
-            "id": 477631507,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-10-26T12:59:48Z",
-            "open_issues": 0,
-            "owner": "gemrest",
-            "repo": "maple",
-            "stars": 3,
-            "topics": [
-              "gemini",
-              "gemini-server",
-              "titan"
             ]
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-29T00:25:33Z",
-                "open_issues": 919,
+                "last_commit": "2026-10-30T00:27:21Z",
+                "open_issues": 920,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29786,
+                "stars": 29797,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T19:27:14.394Z",
+    "last_updated": "2026-10-30T19:02:24.270Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 14,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1567,
+      "stars": 1568,
       "topics": [
         "awesome",
         "awesome-list",
