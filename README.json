@@ -21,7 +21,7 @@
                 "open_issues": 276,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45597,
+                "stars": 45607,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -361,7 +361,7 @@
                     "open_issues": 43,
                     "owner": "ikskuh",
                     "repo": "kristall",
-                    "stars": 802,
+                    "stars": 803,
                     "topics": [
                       "browser",
                       "finger",
@@ -670,7 +670,7 @@
                     "open_issues": 8,
                     "owner": "jfoucher",
                     "repo": "Jimmy",
-                    "stars": 82,
+                    "stars": 81,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:28:25.429Z"
@@ -1056,7 +1056,7 @@
             "open_issues": 3,
             "owner": "ninedraft",
             "repo": "gemax",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "gemini",
               "go",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-03T18:59:28Z",
+                "last_commit": "2026-11-04T00:23:53Z",
                 "open_issues": 924,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29827,
+                "stars": 29834,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T20:26:31.675Z",
+    "last_updated": "2026-11-04T20:41:30.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3345,10 +3345,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-25T06:22:29Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1569,
+      "stars": 1570,
       "topics": [
         "awesome",
         "awesome-list",
