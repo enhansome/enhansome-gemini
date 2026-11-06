@@ -21,7 +21,7 @@
                 "open_issues": 277,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45615,
+                "stars": 45623,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -361,7 +361,7 @@
                     "open_issues": 43,
                     "owner": "ikskuh",
                     "repo": "kristall",
-                    "stars": 803,
+                    "stars": 802,
                     "topics": [
                       "browser",
                       "finger",
@@ -417,7 +417,7 @@
                     "id": 929210843,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-29T13:15:47Z",
+                    "last_commit": "2026-11-06T05:28:03Z",
                     "open_issues": 1,
                     "owner": "mochaman",
                     "repo": "alhena",
@@ -635,7 +635,7 @@
                     "language": "Swift",
                     "license": "MPL-2.0",
                     "last_commit": "2023-11-26T10:35:23Z",
-                    "open_issues": 22,
+                    "open_issues": 21,
                     "owner": "pitr",
                     "repo": "gemini-ios",
                     "stars": 128,
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-05T00:23:45Z",
-                "open_issues": 926,
+                "last_commit": "2026-11-06T00:24:29Z",
+                "open_issues": 922,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29841,
+                "stars": 29843,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T20:57:21.410Z",
+    "last_updated": "2026-11-06T20:17:19.365Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
