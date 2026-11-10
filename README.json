@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-09T10:55:23Z",
-                "open_issues": 274,
+                "open_issues": 273,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45660,
+                "stars": 45666,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -80,7 +80,7 @@
                 "open_issues": 13,
                 "owner": "jansc",
                 "repo": "ncgopher",
-                "stars": 233,
+                "stars": 234,
                 "topics": [
                   "cli",
                   "gemini",
@@ -139,7 +139,7 @@
                 "open_issues": 1,
                 "owner": "blmayer",
                 "repo": "ereandel",
-                "stars": 70,
+                "stars": 71,
                 "topics": [
                   "browser",
                   "gemini",
@@ -1502,27 +1502,6 @@
         },
         {
           "node_type": "item",
-          "title": "blizanci",
-          "description": "(Erlang) - server designed primarily for robustness and security.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Gemini protocol server",
-            "homepage": null,
-            "id": 265072060,
-            "language": "Erlang",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-03T10:24:29Z",
-            "open_issues": 8,
-            "owner": "mk270",
-            "repo": "blizanci",
-            "stars": 33,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:28:25.429Z"
-        },
-        {
-          "node_type": "item",
           "title": "net-gemini",
           "description": "(Go) - gemini server inspired by Molly Brown.",
           "children": [],
@@ -1537,6 +1516,27 @@
             "open_issues": 0,
             "owner": "jackdoe",
             "repo": "net-gemini",
+            "stars": 34,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T23:28:25.429Z"
+        },
+        {
+          "node_type": "item",
+          "title": "blizanci",
+          "description": "(Erlang) - server designed primarily for robustness and security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Gemini protocol server",
+            "homepage": null,
+            "id": 265072060,
+            "language": "Erlang",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-03T10:24:29Z",
+            "open_issues": 8,
+            "owner": "mk270",
+            "repo": "blizanci",
             "stars": 33,
             "topics": []
           },
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-09T00:24:14Z",
-                "open_issues": 921,
+                "last_commit": "2026-11-10T00:21:06Z",
+                "open_issues": 920,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29862,
+                "stars": 29876,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:18:31.176Z",
+    "last_updated": "2026-11-10T20:43:34.233Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 7,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1570,
+      "stars": 1571,
       "topics": [
         "awesome",
         "awesome-list",
