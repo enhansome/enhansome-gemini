@@ -21,7 +21,7 @@
                 "open_issues": 273,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45666,
+                "stars": 45699,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -329,7 +329,7 @@
                     "language": "JavaScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-07-13T14:45:15Z",
-                    "open_issues": 104,
+                    "open_issues": 106,
                     "owner": "AgregoreWeb",
                     "repo": "agregore-browser",
                     "stars": 928,
@@ -1533,7 +1533,7 @@
             "id": 265072060,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T10:24:29Z",
+            "last_commit": "2026-11-11T19:07:35Z",
             "open_issues": 8,
             "owner": "mk270",
             "repo": "blizanci",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-10T00:21:06Z",
-                "open_issues": 920,
+                "last_commit": "2026-11-11T00:23:10Z",
+                "open_issues": 917,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29876,
+                "stars": 29892,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T20:43:34.233Z",
+    "last_updated": "2026-11-11T21:07:17.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
