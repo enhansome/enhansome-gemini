@@ -17,11 +17,11 @@
                 "id": 233130089,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-09T10:55:23Z",
-                "open_issues": 273,
+                "last_commit": "2026-11-12T14:58:37Z",
+                "open_issues": 246,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45699,
+                "stars": 45724,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -51,7 +51,7 @@
                 "open_issues": 12,
                 "owner": "makew0rld",
                 "repo": "amfora",
-                "stars": 1359,
+                "stars": 1361,
                 "topics": [
                   "browser",
                   "gemini",
@@ -392,7 +392,7 @@
                     "open_issues": 41,
                     "owner": "ranfdev",
                     "repo": "Geopard",
-                    "stars": 205,
+                    "stars": 206,
                     "topics": [
                       "browser",
                       "gemini",
@@ -3084,7 +3084,7 @@
                 "id": 509710180,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-09T16:23:35Z",
+                "last_commit": "2026-11-12T11:09:57Z",
                 "open_issues": 0,
                 "owner": "mk270",
                 "repo": "gemtext2md",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-11T00:23:10Z",
-                "open_issues": 917,
+                "last_commit": "2026-11-12T18:37:12Z",
+                "open_issues": 915,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29892,
+                "stars": 29908,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T21:07:17.643Z",
+    "last_updated": "2026-11-12T21:21:13.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
