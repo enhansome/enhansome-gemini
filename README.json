@@ -21,7 +21,7 @@
                 "open_issues": 246,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45724,
+                "stars": 45716,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -51,7 +51,7 @@
                 "open_issues": 12,
                 "owner": "makew0rld",
                 "repo": "amfora",
-                "stars": 1361,
+                "stars": 1362,
                 "topics": [
                   "browser",
                   "gemini",
@@ -1318,7 +1318,7 @@
             "open_issues": 6,
             "owner": "mbrubeck",
             "repo": "agate",
-            "stars": 750,
+            "stars": 751,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -3079,7 +3079,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A Gemini text to Markdown converter",
+                "description": "A Gemini text to Markdown & PDF converter",
                 "homepage": null,
                 "id": 509710180,
                 "language": "Rust",
@@ -3105,7 +3105,7 @@
                 "id": 486754735,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2025-08-18T11:06:14Z",
+                "last_commit": "2026-11-13T13:40:58Z",
                 "open_issues": 4,
                 "owner": "mk270",
                 "repo": "gemtext2latex",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-12T18:37:12Z",
+                "last_commit": "2026-11-13T00:22:21Z",
                 "open_issues": 915,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29908,
+                "stars": 29891,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3227,7 +3227,7 @@
                 "open_issues": 125,
                 "owner": "lite-xl",
                 "repo": "lite-xl-plugins",
-                "stars": 526,
+                "stars": 527,
                 "topics": [
                   "lite-xl",
                   "plugins"
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:21:13.460Z",
+    "last_updated": "2026-11-13T20:47:29.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 7,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1571,
+      "stars": 1572,
       "topics": [
         "awesome",
         "awesome-list",
