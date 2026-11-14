@@ -21,7 +21,7 @@
                 "open_issues": 246,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45716,
+                "stars": 45724,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -329,7 +329,7 @@
                     "language": "JavaScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-07-13T14:45:15Z",
-                    "open_issues": 106,
+                    "open_issues": 105,
                     "owner": "AgregoreWeb",
                     "repo": "agregore-browser",
                     "stars": 928,
@@ -764,7 +764,7 @@
             "open_issues": 4,
             "owner": "pitr",
             "repo": "gig",
-            "stars": 65,
+            "stars": 66,
             "topics": []
           },
           "first_seen": "2026-08-28T23:28:25.429Z"
@@ -1360,7 +1360,7 @@
             "open_issues": 14,
             "owner": "omar-polo",
             "repo": "gmid",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "gemini",
               "gemini-protocol",
@@ -3088,7 +3088,7 @@
                 "open_issues": 0,
                 "owner": "mk270",
                 "repo": "gemtext2md",
-                "stars": 2,
+                "stars": 3,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:28:25.429Z"
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-13T00:22:21Z",
+                "last_commit": "2026-11-14T00:21:56Z",
                 "open_issues": 915,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29891,
+                "stars": 29896,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:47:29.271Z",
+    "last_updated": "2026-11-14T18:58:26.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
