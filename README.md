@@ -48,7 +48,7 @@ Repo mirrors:
 
 ### Terminal
 
-* [gembro](https://git.sr.ht/~rafael/gembro) (Go) - gemini client using [Bubble Tea](https://github.com/charmbracelet/bubbletea) ⭐ 45,724 | 🐛 246 | 🌐 Go | 📅 2026-11-12.
+* [gembro](https://git.sr.ht/~rafael/gembro) (Go) - gemini client using [Bubble Tea](https://github.com/charmbracelet/bubbletea) ⭐ 45,733 | 🐛 246 | 🌐 Go | 📅 2026-11-12.
 * [Amfora](https://github.com/makeworld-the-better-one/amfora) ⭐ 1,362 | 🐛 12 | 🌐 Go | 📅 2026-10-01 (Go) - "fancy" terminal client. In [maintenance mode](https://www.makeworld.space/2023/08/bye_gemini.html).
 * [ncgopher](https://github.com/jansc/ncgopher) ⭐ 234 | 🐛 13 | 🌐 Rust | 📅 2026-06-11 (Rust) - gopher and gemini client for the modern internet.
 * [gmi100](https://github.com/ir33k/gmi100) ⭐ 85 | 🐛 1 | 🌐 C | 📅 2024-10-29 (C) - CLI Gemini client written in 100 lines of ANSI C.
@@ -98,7 +98,7 @@ Repo mirrors:
 * [Molasses](https://github.com/jjsimpso/molasses) ⭐ 36 | 🐛 2 | 🌐 Racket | 📅 2026-07-05 (Racket) - full-featured graphical Gopher and Gemini client with tabs.
 * [Fossil](https://github.com/koyuspace/fossil) ⚠️ Archived (Vala) - GTK3 Gemini browser written in Vala for desktop and mobile.
 * [Yoda](https://github.com/YGGverse/Yoda) ⭐ 26 | 🐛 8 | 🌐 Rust | 📅 2026-10-08 (Rust) - GTK 4 / Libadwaita client written in Rust.
-* [eGemi](https://github.com/nfnitloop/egemi) ⭐ 6 | 🐛 4 | 🌐 Rust | 📅 2025-08-17 (Rust) - Read gemtext and other plaintexts via `gemini://` *and* `https://`. (uses [egui](https://github.com/emilk/egui) ⭐ 32,282 | 🐛 1,160 | 🌐 Rust | 📅 2026-11-13)
+* [eGemi](https://github.com/nfnitloop/egemi) ⭐ 6 | 🐛 4 | 🌐 Rust | 📅 2025-08-17 (Rust) - Read gemtext and other plaintexts via `gemini://` *and* `https://`. (uses [egui](https://github.com/emilk/egui) ⭐ 32,301 | 🐛 1,165 | 🌐 Rust | 📅 2026-11-13)
 * [spacewar](https://github.com/ResonAtom/spacewar) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2020-08-24 (Electron.js) - EXPERIMENTAL and UNSTABLE Gemini browser running on Electron.
 * [Alrisha](https://git.sr.ht/~fabrixxm/alrisha) (QML) - QML-based Gemini client.
 * [Castor](https://git.sr.ht/~julienxx/castor) (Rust) - graphical Gemini client using GTK.
@@ -199,7 +199,7 @@ Repo mirrors:
 * [geminim](https://github.com/ardek66/geminim) ⭐ 40 | 🐛 2 | 🌐 Nim | 📅 2022-07-09 (Nim) - an async lightweight Gemini server made in Nim.
 * [Mehari](https://github.com/Psi-Prod/Mehari) ⭐ 40 | 🐛 0 | 🌐 OCaml | 📅 2026-11-09 - Featureful server in OCaml
 * [net-gemini](https://github.com/jackdoe/net-gemini) ⭐ 34 | 🐛 0 | 🌐 Go | 📅 2021-08-25 (Go) - gemini server inspired by Molly Brown.
-* [blizanci](https://github.com/mk270/blizanci) ⭐ 33 | 🐛 8 | 🌐 Erlang | 📅 2026-11-11 (Erlang) - server designed primarily for robustness and security.
+* [blizanci](https://github.com/mk270/blizanci) ⭐ 33 | 🐛 8 | 🌐 Erlang | 📅 2026-11-14 (Erlang) - server designed primarily for robustness and security.
 * [Gemeaux](https://github.com/brunobord/gemeaux) ⭐ 21 | 🐛 2 | 🌐 Python | 📅 2025-04-06 (Python) - server using only the Python standard library.
 * [twinstar](https://github.com/panicbit/twinstar) ⭐ 19 | 🐛 7 | 🌐 Rust | 📅 2025-09-09 (Rust) - gemini server implementation.
 * [gmifs](https://github.com/n0x1m/gmifs) ⭐ 17 | 🐛 0 | 🌐 Go | 📅 2021-07-29 (Go) - Gemini file server with auto indexing support, caching and auto TLS key pair creation.
@@ -360,7 +360,7 @@ Repo mirrors:
 
 ### Syntax Highlighting
 
-* [gemini.yml](https://github.com/zyedidia/micro/blob/master/runtime/syntax/gemini.yaml) ⭐ 29,896 | 🐛 915 | 🌐 Go | 📅 2026-11-14 - text/gemini syntax highlighting for micro.
+* [gemini.yml](https://github.com/zyedidia/micro/blob/master/runtime/syntax/gemini.yaml) ⭐ 29,900 | 🐛 914 | 🌐 Go | 📅 2026-11-15 - text/gemini syntax highlighting for micro.
 * [language\_gmi](https://github.com/lite-xl/lite-xl-plugins/blob/master/plugins/language_gmi.lua) ⭐ 527 | 🐛 125 | 🌐 Lua | 📅 2026-10-12 - gemtext syntax highlighting for lite-xl
 * [gemini.kak](https://github.com/kakoune-editor/kakoune-extra-filetypes/blob/master/rc/gemini.kak) ⭐ 30 | 🐛 2 | 🌐 Makefile | 📅 2021-08-06 - text/gemini syntax highlighting for kakoune.
 * [gemini.sublime-syntax](https://github.com/adiabatic/gemini.sublime-syntax) ⭐ 10 | 🐛 0 | 🌐 Shell | 📅 2025-10-06 - text/gemini syntax highlighting for bat (and maybe Sublime Text).
@@ -390,4 +390,4 @@ Repo mirrors:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
