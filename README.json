@@ -21,7 +21,7 @@
                 "open_issues": 246,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45733,
+                "stars": 45745,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -51,7 +51,7 @@
                 "open_issues": 12,
                 "owner": "makew0rld",
                 "repo": "amfora",
-                "stars": 1362,
+                "stars": 1363,
                 "topics": [
                   "browser",
                   "gemini",
@@ -2453,7 +2453,7 @@
             "id": 427417287,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-03T13:51:06Z",
+            "last_commit": "2026-11-16T05:58:29Z",
             "open_issues": 2,
             "owner": "marty1885",
             "repo": "tlgs",
@@ -3088,7 +3088,7 @@
                 "open_issues": 0,
                 "owner": "mk270",
                 "repo": "gemtext2md",
-                "stars": 3,
+                "stars": 4,
                 "topics": []
               },
               "first_seen": "2026-08-28T23:28:25.429Z"
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-15T00:23:25Z",
-                "open_issues": 914,
+                "last_commit": "2026-11-16T00:28:41Z",
+                "open_issues": 916,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29900,
+                "stars": 29907,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T19:37:34.852Z",
+    "last_updated": "2026-11-16T23:15:15.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
