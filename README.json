@@ -21,7 +21,7 @@
                 "open_issues": 244,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45770,
+                "stars": 45802,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -51,7 +51,7 @@
                 "open_issues": 12,
                 "owner": "makew0rld",
                 "repo": "amfora",
-                "stars": 1363,
+                "stars": 1362,
                 "topics": [
                   "browser",
                   "gemini",
@@ -76,7 +76,7 @@
                 "id": 242084111,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T04:03:42Z",
+                "last_commit": "2026-11-19T04:03:53Z",
                 "open_issues": 8,
                 "owner": "jansc",
                 "repo": "ncgopher",
@@ -332,7 +332,7 @@
                     "open_issues": 105,
                     "owner": "AgregoreWeb",
                     "repo": "agregore-browser",
-                    "stars": 928,
+                    "stars": 929,
                     "topics": [
                       "browser",
                       "decentralization",
@@ -1314,8 +1314,8 @@
             "id": 264589205,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-09T17:34:58Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-19T20:19:17Z",
+            "open_issues": 8,
             "owner": "mbrubeck",
             "repo": "agate",
             "stars": 751,
@@ -1533,7 +1533,7 @@
             "id": 265072060,
             "language": "Erlang",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T19:22:36Z",
+            "last_commit": "2026-11-19T16:22:54Z",
             "open_issues": 8,
             "owner": "mk270",
             "repo": "blizanci",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-18T00:22:27Z",
-                "open_issues": 913,
+                "last_commit": "2026-11-19T00:22:01Z",
+                "open_issues": 912,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29917,
+                "stars": 29918,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T21:44:18.327Z",
+    "last_updated": "2026-11-19T22:00:15.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 7,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1572,
+      "stars": 1573,
       "topics": [
         "awesome",
         "awesome-list",
