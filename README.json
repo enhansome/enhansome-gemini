@@ -21,7 +21,7 @@
                 "open_issues": 234,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45820,
+                "stars": 45830,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -80,7 +80,7 @@
                 "open_issues": 5,
                 "owner": "jansc",
                 "repo": "ncgopher",
-                "stars": 234,
+                "stars": 235,
                 "topics": [
                   "cli",
                   "gemini",
@@ -417,7 +417,7 @@
                     "id": 929210843,
                     "language": "Java",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-17T23:58:16Z",
+                    "last_commit": "2026-11-21T15:50:42Z",
                     "open_issues": 1,
                     "owner": "mochaman",
                     "repo": "alhena",
@@ -1315,7 +1315,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T20:19:17Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "mbrubeck",
             "repo": "agate",
             "stars": 751,
@@ -1558,7 +1558,7 @@
             "open_issues": 2,
             "owner": "brunobord",
             "repo": "gemeaux",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "gemini",
               "gemini-protocol"
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-20T00:20:34Z",
-                "open_issues": 914,
+                "last_commit": "2026-11-21T19:41:02Z",
+                "open_issues": 904,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29928,
+                "stars": 29939,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:42:48.901Z",
+    "last_updated": "2026-11-21T20:24:17.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 7,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1573,
+      "stars": 1574,
       "topics": [
         "awesome",
         "awesome-list",
