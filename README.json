@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-11-22T17:47:10Z",
-                "open_issues": 235,
+                "open_issues": 229,
                 "owner": "charmbracelet",
                 "repo": "bubbletea",
-                "stars": 45842,
+                "stars": 45848,
                 "topics": [
                   "cli",
                   "elm-architecture",
@@ -76,7 +76,7 @@
                 "id": 242084111,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-20T09:37:18Z",
+                "last_commit": "2026-11-23T05:51:42Z",
                 "open_issues": 5,
                 "owner": "jansc",
                 "repo": "ncgopher",
@@ -139,7 +139,7 @@
                 "open_issues": 1,
                 "owner": "blmayer",
                 "repo": "ereandel",
-                "stars": 71,
+                "stars": 72,
                 "topics": [
                   "browser",
                   "gemini",
@@ -329,7 +329,7 @@
                     "language": "JavaScript",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-07-13T14:45:15Z",
-                    "open_issues": 105,
+                    "open_issues": 104,
                     "owner": "AgregoreWeb",
                     "repo": "agregore-browser",
                     "stars": 929,
@@ -389,10 +389,10 @@
                     "language": "Rust",
                     "license": "GPL-3.0",
                     "last_commit": "2025-09-01T15:57:53Z",
-                    "open_issues": 41,
+                    "open_issues": 42,
                     "owner": "ranfdev",
                     "repo": "Geopard",
-                    "stars": 206,
+                    "stars": 207,
                     "topics": [
                       "browser",
                       "gemini",
@@ -421,7 +421,7 @@
                     "open_issues": 1,
                     "owner": "mochaman",
                     "repo": "alhena",
-                    "stars": 62,
+                    "stars": 63,
                     "topics": [
                       "alhena",
                       "gemini",
@@ -917,7 +917,7 @@
             "id": 409219050,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-02T07:41:06Z",
+            "last_commit": "2026-11-23T17:28:40Z",
             "open_issues": 0,
             "owner": "marty1885",
             "repo": "dremini",
@@ -1360,7 +1360,7 @@
             "open_issues": 14,
             "owner": "omar-polo",
             "repo": "gmid",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "gemini",
               "gemini-protocol",
@@ -1715,7 +1715,7 @@
             "open_issues": 1,
             "owner": "Alumniminium",
             "repo": "atlas",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "cgi",
               "gemini",
@@ -3193,11 +3193,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-22T13:40:08Z",
+                "last_commit": "2026-11-24T00:22:59Z",
                 "open_issues": 905,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29944,
+                "stars": 29955,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -3227,7 +3227,7 @@
                 "open_issues": 128,
                 "owner": "lite-xl",
                 "repo": "lite-xl-plugins",
-                "stars": 527,
+                "stars": 526,
                 "topics": [
                   "lite-xl",
                   "plugins"
@@ -3336,7 +3336,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T20:36:38.395Z",
+    "last_updated": "2026-11-24T01:31:25.996Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome things regarding the gemini protocol ecosystem.",
@@ -3348,7 +3348,7 @@
       "open_issues": 7,
       "owner": "kr1sp1n",
       "repo": "awesome-gemini",
-      "stars": 1574,
+      "stars": 1575,
       "topics": [
         "awesome",
         "awesome-list",
